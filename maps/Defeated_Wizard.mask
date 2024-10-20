@@ -1,8 +1,0 @@
-_f, _f, _f, _f, _f, _f, _f, _f, _f, _f, _f
-_f, _f, _f, _f, Dd, Dd, Dd, _f, _f, _f, _f
-_f, _f, _f, Dd, Dd, Dd, Rd, Dd, _f, _f, _f
-_f, _f, _f, Dd, Dd, Rd, Dd, Rd, _f, _f, _f
-_f, _f, _f, Dd, Rd, Rd, Dd, Dd, _f, _f, _f
-_f, _f, _f, _f, _f, Dd, _f, _f, _f, _f, _f
-_f, _f, _f, _f, _f, _f, _f, _f, _f, _f, _f
-_f, _f, _f, _f, _f, _f, _f, _f, _f, _f, _f
