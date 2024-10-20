@@ -1,0 +1,1918 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2024-07-30 03:18+0400\n"
+"PO-Revision-Date: 2024-09-09 22:36+0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 2.3\n"
+
+#. [campaign]: id=venomous_sands, type=mp
+#. [part]
+#: _main.cfg:10 scenarios/01_Injection.cfg:26
+msgid "Venomous Sands"
+msgstr "Ядовитые Пески"
+
+#. [campaign]: id=venomous_sands, type=mp
+#: _main.cfg:11
+msgid "VS"
+msgstr "ЯП"
+
+#. [campaign]: id=venomous_sands, type=mp
+#: _main.cfg:21
+msgid "Overseer"
+msgstr "Надзиратель"
+
+#. [campaign]: id=venomous_sands, type=mp
+#: _main.cfg:21
+msgid "Normal"
+msgstr "Нормальный"
+
+#. [campaign]: id=venomous_sands, type=mp
+#: _main.cfg:22
+msgid "Challenging"
+msgstr "Сложный"
+
+#. [campaign]: id=venomous_sands, type=mp
+#: _main.cfg:22
+msgid "Oasis Keeper"
+msgstr "Страж оазиса"
+
+#. [campaign]: id=venomous_sands, type=mp
+#: _main.cfg:23
+msgid "Pillar"
+msgstr "Оплот"
+
+#. [campaign]: id=venomous_sands, type=mp
+#: _main.cfg:23
+msgid "Difficult"
+msgstr "Очень сложный"
+
+#. [campaign]: id=venomous_sands, type=mp
+#: _main.cfg:25
+msgid ""
+"Life had been harsh for the Nagas since the Great Fall, but they could not imagine what they faced when forces far more powerful than marauding bands turned their gaze upon them. \n"
+"\n"
+"You'll face the elves of Quenoth and the cultists of Uria, traverse the desert, fight mighty bosses, collect artefacts and more! The world after the Fall is cruel and dangerous, will you be strong enough to survive in it?\n"
+msgstr ""
+"После Великого Падения жизнь нагов была суровой, но они и представить себе не могли, с чем столкнутся, когда на них обратят свой взор силы куда более могущественные, чем банды налётчиков. \n"
+"\n"
+"Вас ждёт встреча с эльфами Квенота и культистами Урии, путешествие через пустыню, битвы с могучими боссами, поиск артефактов и многое другое! Мир после Падения жесток и опасен, хватит ли вам сил, чтобы выжить? \n"
+
+#. [campaign]: id=venomous_sands, type=mp
+#: _main.cfg:28
+msgid "(Venomous level of difficulty, 4 scenarios.)"
+msgstr "(Ядовитый уровень сложности, 4 сценария)"
+
+#. [about]
+#: _main.cfg:33
+msgid "Campaign Design"
+msgstr "Дизайн кампании"
+
+#. [era]: id=VS_Nagas_era
+#: era/era.cfg:4
+msgid "Nagas After the Fall"
+msgstr "Наги после Падения"
+
+#. [era]: id=VS_Nagas_era
+#: era/era.cfg:5
+msgid "Harsh life, harsh snakes."
+msgstr "Суровая жизнь, суровые змеи."
+
+#. [multiplayer_side]: id=xamos_nagas, type=random
+#: era/era.cfg:14
+msgid "Xa'mos Nagas"
+msgstr "Наги Кса'мос"
+
+#. [scenario]: id=vs_scenario_1
+#: scenarios/01_Injection.cfg:5
+msgid "Injection"
+msgstr "Инъекция"
+
+#. [part]
+#: scenarios/01_Injection.cfg:21
+msgid "Disclaimer"
+msgstr "Дисклеймер"
+
+#. [part]
+#: scenarios/01_Injection.cfg:23
+msgid "This campaign changes certain Wesnoth standards, such as the nagas’ stats and the day/night cycle."
+msgstr "Эта кампания изменяет некоторые стандартные элементы Веснота, в частности, характеристики нагов и цикл дня и ночи."
+
+#. [part]
+#: scenarios/01_Injection.cfg:28
+msgid "The sandy hell that Irdya became after the great Fall forced the surviving races to find new ways to live. Some of them, like the elves, adapted to life in the desert. Thus came Quenoth and the Cult of Eloh, the last island of civilization in the sea of sand."
+msgstr "Песчаный ад, в который Ирдия превратилась после великого Падения, заставил уцелевшие расы искать новые способы выживания. Некоторые эльфы приспособились к жизни в пустыне. Так появился Квенот и культ Эло - последний остров светлой цивилизации в море песка."
+
+#. [part]
+#: scenarios/01_Injection.cfg:31
+msgid "Others found salvation in serving the dark forces that filled the wastelands. This is how cruel cults emerged, the worst of which was the cult of Uria, the mother of all Evil."
+msgstr "Иные нашли спасение в служении тёмным сущностям, что заполонили пустоши. Так появились жестокие культы, самым страшным из которых был культ Урии - матери всего Зла."
+
+#. [part]
+#: scenarios/01_Injection.cfg:34
+msgid "And creatures equally indifferent to good and evil, but too weak to stand up for themselves, allied themselves with the mighty of this world, be they followers of Eloh or of Uria."
+msgstr "А существа, одинаково безразличные к добру и злу, но слишком слабые, чтобы постоять за себя, вступили в союз с сильными мира сего - будь то последователи Эло или Урии."
+
+#. [part]
+#: scenarios/01_Injection.cfg:37
+msgid "This story is about such creatures, a small naga colony that shared an oasis with the elves of Quenoth. The burning suns had scorched the memories of the former enmity between the two races, and the nagas and elves lived harmoniously and shared together the hardships of life in the harsh sands."
+msgstr "Эта история именно о таких существах, а точнее, о небольшой колонии нагов, что делили оазис с эльфами Квенота. Палящие солнца выжгли воспоминания о былой вражде двух рас, наги и эльфы жили мирно и вместе разделяли все тяготы жизни в суровых песках."
+
+#. [part]
+#: scenarios/01_Injection.cfg:40
+msgid "The elves protected the nearby dunes, and the nagas patrolled the river that flowed into the oasis. The river was the only source of water for miles around, and it was common for desert roamers to encroach on it."
+msgstr "Эльфы защищали близлежащие дюны, а наги патрулировали ручей, впадающий в оазис. Ручей был единственным источником воды на многие мили вокруг, и часто бывало, что кто-то из пустынных бродяг покушался на него."
+
+#. [part]
+#: scenarios/01_Injection.cfg:43
+msgid "Scenario 1: Injection"
+msgstr "Сценарий 1: Инъекция"
+
+#. [part]
+#: scenarios/01_Injection.cfg:44
+msgid "So young nagas Typhon and Python, who lead the colony, were not at all surprised when they discovered a camp of strangers on one of their forays."
+msgstr "Поэтому молодые наги Тифон и Пифон, возглавляющие колонию, ничуть не удивились, когда на одной из вылазок обнаружили лагерь чужаков."
+
+#. [side]: type=Herald of Uria, id=DarkLeader
+#: scenarios/01_Injection.cfg:74
+msgid "Arzoteq the Flesh Weaver"
+msgstr "Арзотек Ткач Плоти"
+
+#. [side]: type=Herald of Uria, id=DarkLeader
+#. [side]: type=Herald of Uria, id=Dark_Leader2
+#: scenarios/01_Injection.cfg:79 scenarios/03_Across_the_Vemonous_Sands.cfg:142
+msgid "Cultists"
+msgstr "Культисты"
+
+#. [side]: type=Orcish Ruler, id=OrcLeader
+#: scenarios/01_Injection.cfg:119
+msgid "Gyrza the Dead Eye"
+msgstr "Гюрза Мёртвый Глаз"
+
+#. [side]: type=Orcish Ruler, id=OrcLeader
+#: scenarios/01_Injection.cfg:124
+msgid "Orcs"
+msgstr "Орки"
+
+#. [side]
+#: scenarios/01_Injection.cfg:161
+msgid "Rebel Orcs"
+msgstr "Мятежные орки"
+
+#. [label]
+#: scenarios/01_Injection.cfg:188
+msgid "Phantom Outpost"
+msgstr "Призрачная Застава"
+
+#. [object]: id=Vussel_Orc
+#. [object]: id=vicious_vessel
+#: scenarios/01_Injection.cfg:223 scenarios/01_Injection.cfg:857
+msgid "The Vicious Vessel"
+msgstr "Нечестивый Сосуд"
+
+#. [object]: id=Vussel_Orc
+#. [object]: id=vicious_vessel
+#: scenarios/01_Injection.cfg:225 scenarios/01_Injection.cfg:859
+msgid "The mysterious vessel that Uria's cultists need so badly. It evokes an ominous energy, but at the same time, it beckons you to hold it in your hands."
+msgstr "Таинственный сосуд, который очень нужен культистам Урии. От него веет зловещей силой, но в то же время, он так и манит взять его в руки."
+
+#. [dummy]: id=Vessel
+#. [dummy]: id=vicious_vessel
+#: scenarios/01_Injection.cfg:237 scenarios/01_Injection.cfg:872
+msgid "vicious vessel"
+msgstr "нечестивый сосуд"
+
+#. [dummy]: id=Vessel
+#. [dummy]: id=vicious_vessel
+#: scenarios/01_Injection.cfg:238 scenarios/01_Injection.cfg:873
+msgid "This unit carries The Vicious Vessel."
+msgstr "Этот боец несёт Нечестивый Сосуд."
+
+#. [message]: speaker=Naga1
+#: scenarios/01_Injection.cfg:254
+msgid "Look, outsiders at the Phantom Outpost!"
+msgstr "Гляди, чужаки у Призрачной Заставы!"
+
+#. [message]: speaker=DarkLeader
+#: scenarios/01_Injection.cfg:265
+msgid "Gyrza Dead-Eye! I am Herald Arzoteq, sent to you to deliver the will of Uria. Hear and obey: The Vicious Vessel you received from the Goddess has corrupted and severed your connection to Her. It has led you down the wrong path. Give the Vessel to me! I will fix it and return to you, if, of course, you are still a worthy bearer."
+msgstr "Гюрза Мёртвый Глаз! Я – глашатай Арзотек, был послан к тебе, чтобы передать волю Урии. Слушай и повинуйся: Нечестивый Сосуд, полученный тобой от Богини, испортился и разорвал твою связь с Ней. Он повёл тебя по ложному пути. Отдай сосуд мне! Я исправлю его и верну, если, конечно, ты всё ещё достойный носитель."
+
+#. [message]: speaker=OrcLeader
+#: scenarios/01_Injection.cfg:270
+msgid "Nonsense, Uria spoke to me in a dream, She told me to seize the river and exterminate the infidels, there was no talk of the Vessel!"
+msgstr "Вздор, Урия говорила со мной во сне, Она велела захватить ручей и истребить неверных, о сосуде речи не было!"
+
+#. [message]: speaker=DarkLeader
+#: scenarios/01_Injection.cfg:275
+msgid "It could not be the Goddess, for the magic of the Vessel drowns out Her voice. Therefore I was sent to you to be Her mouth."
+msgstr "Это не могла быть Богиня, ибо магия Сосуда заглушает голос Её. Именно я был послан к тебе, чтобы стать Её устами."
+
+#. [message]: speaker=OrcLeader
+#: scenarios/01_Injection.cfg:280
+msgid "Are you using the name of Uria to deceive me and take the Vessel for yourself? Maybe you are one of the infidels She spoke of? Then I will kill you!"
+msgstr "Используешь имя Урии, чтобы обмануть меня и присвоить сосуд себе? Может, ты и есть один из тех неверных, о ком Она говорила? Тогда я убью тебя!"
+
+#. [message]: speaker=DarkLeader
+#: scenarios/01_Injection.cfg:285
+msgid "Come to your senses and do the will of the Goddess, or you'll be begging for death."
+msgstr "Окстись и выполни волю Богини, или смерть для тебя станет слаще ледяной воды."
+
+#. [message]: speaker=OrcLeader
+#: scenarios/01_Injection.cfg:290
+msgid "Ha-ha, you decrepit deceiver, what will you do to the mighty orcs?"
+msgstr "Ха-ха, дряхлый обманщик, и что же ты сделаешь могучим оркам?"
+
+#. [message]: speaker=DarkLeader
+#: scenarios/01_Injection.cfg:296
+msgid "Now you'll find out!"
+msgstr "Сейчас ты узнаешь!"
+
+#. [message]: speaker=DarkLeader
+#: scenarios/01_Injection.cfg:402
+msgid "I will reshape you into new, better servants of Uria!"
+msgstr "Я перекрою вас в новых, лучших слуг Урии!"
+
+#. [message]: speaker=OrcLeader
+#: scenarios/01_Injection.cfg:407
+msgid "The river will wait, warriors. First of all, capture the deceiver, I want to personally break all his bones!"
+msgstr "Ручей подождёт, воины. Прежде всего, схватите обманщика, хочу лично переломать ему все кости!"
+
+#. [message]: speaker=Naga2
+#: scenarios/01_Injection.cfg:412
+msgid "The orc chieftain and the wizard are going to fight each other, we must defeat both of them to keep the river safe. That won't be easy."
+msgstr "Вождь орков и колдун собираются сражаться друг с другом, мы должны разгромить обоих, чтобы ручей был в безопасности. Это будет нелегко."
+
+#. [message]: speaker=Naga1
+#: scenarios/01_Injection.cfg:417
+msgid "Yes, these outsiders are dangerous, but their feud gives us an advantage. Gather our ranks, strike at the right moment, and push them back!"
+msgstr "Да, эти чужаки опасны, но их вражда даёт нам преимущество. Сплотим наши ряды, нападём в подходящий момент, и отбросим их!"
+
+#. [objective]: condition=win
+#: scenarios/01_Injection.cfg:428
+msgid "Defeat Gyrza the Dead Eye"
+msgstr "Сразите Гюрзу Мёртвого Глаза"
+
+#. [objective]: condition=win
+#: scenarios/01_Injection.cfg:437
+msgid "Defeat Arzoteq the Flesh Weaver"
+msgstr "Сразите Арзотека Ткача Плоти"
+
+#. [objective]: condition=win
+#: scenarios/01_Injection.cfg:446 scenarios/01_Injection.cfg:457
+msgid "Bonus Objective"
+msgstr "Дополнительное задание"
+
+#. [objective]: condition=win
+#: scenarios/01_Injection.cfg:447
+msgid "Destroy dark sphere to remove the darkness area, or destroy all spheres to deal a great damage to Arzoteq"
+msgstr "Разрушьте тёмную сферу чтобы рассеять ауру ночи, или разрушьте все сферы, чтобы нанести существенный урон Арзотеку"
+
+#. [objective]: condition=win
+#: scenarios/01_Injection.cfg:458
+msgid "Capture the banner for make orcs fighting each other"
+msgstr "Захватите знамя чтобы посеять раздор между орками"
+
+#. [message]: speaker=DarkLeader
+#: scenarios/01_Injection.cfg:484
+msgid "More biological material? I wonder... If I sew their tails onto orc bodies, would I make good water servants?"
+msgstr "Ещё биологический материал? Интересно… Пожалуй, пришью их хвосты к телам орков, быть может, у меня получатся неплохие водоплавающие слуги?"
+
+#. [message]: speaker=OrcLeader
+#: scenarios/01_Injection.cfg:503
+msgid "Water worms getting in my fight? All right, then I will kill all the infidels at once!"
+msgstr "Водяные черви лезут в мою драку? Хорошо, так я перебью всех неверных зараз!"
+
+#. [message]: speaker=narrator
+#: scenarios/01_Injection.cfg:575
+msgid "Inside the phantom outpost sat ghosts in the robes of a long-dead civilization. They acted as if they were alive, and all of them spoke of a Wesnoth whose golden age was about to come."
+msgstr "Внутри Призрачной Заставы бродят призраки в одеждах давно забытой цивилизации. Они ведут себя словно живые, и всё говорят о Весноте, золотой век которого вот-вот настанет."
+
+#. [floating_text]
+#: scenarios/01_Injection.cfg:589
+msgid "+16 exp"
+msgstr "+16 опыта"
+
+#. [message]: speaker=unit
+#: scenarios/01_Injection.cfg:720
+msgid "The worthless Vessel has done nothing to help me, where is its great power? Uria has deceived me!"
+msgstr "Проклятый сосуд ничем не помог мне, где его великая сила? Урия обманула меня!"
+
+#. [time]: id=darkness
+#: scenarios/01_Injection.cfg:742 scenarios/01_Injection.cfg:747 scenarios/01_Injection.cfg:1008 scenarios/01_Injection.cfg:1013 scenarios/01_Injection.cfg:1040 scenarios/01_Injection.cfg:1045 scenarios/01_Injection.cfg:1072 scenarios/01_Injection.cfg:1077
+msgid "Darkness"
+msgstr "Тьма"
+
+#. [object]: id=chaotic{NUMBER}
+#: scenarios/01_Injection.cfg:808
+msgid "The energy of the sphere penetrated the essence of the unit who destroyed it, and made him <i>chaotic</i> and <i>fearless</i>."
+msgstr "Энергия сферы пронизывает сущность бойца, разрушившего её, и делает его <i>хаотичным</i> и <i>бесстрашным</i>."
+
+#. [message]: speaker=second_unit
+#: scenarios/01_Injection.cfg:845
+msgid "The stinking orc chieftain has been defeated! He was carrying some kind of precious Vessel behind his back. It's so graceful, so smooth, I can see my own reflection in it!"
+msgstr "Вонючий вождь орков повержен! Но что это? Он носил какой-то сосуд за пазухой. Такой изящный, такой гладкий, я даже вижу в нём собственное отражение!"
+
+#. [message]
+#: scenarios/01_Injection.cfg:851
+msgid "By law, all jewels belong to the leader, give the Vessel to me! And demolish the orc camp, lest it be used by other invaders."
+msgstr "Драгоценности -- лидеру, отдай сосуд мне. И сравняйте лагерь орков с землёй, нельзя, чтобы им воспользовались другие незваные гости."
+
+#. [message]: speaker=DarkLeader
+#: scenarios/01_Injection.cfg:967
+msgid "You vile snakes, give the vessel back to me, and maybe I'll leave some of you in pristine condition."
+msgstr "Подлые черви, верните Сосуд мне, и быть может тогда я оставлю часть из вас в первозданном виде."
+
+#. [message]
+#: scenarios/01_Injection.cfg:972
+msgid "Should we return the Vessel, see if the wizard will indeed calm down?"
+msgstr "Может, отдадим колдуну этот Сосуд, вдруг тогда он оставит нас в покое?"
+
+#. [message]
+#: scenarios/01_Injection.cfg:977
+msgid "He wanted to do terrible things to us, he won't calm down! And the Vessel is my trophy, I won't give it to anyone!"
+msgstr "Он хотел сделать с нами ужасные вещи, он не успокоится! А Сосуд - мой трофей, я никому его не отдам!"
+
+#. [message]: speaker=DarkLeader
+#: scenarios/01_Injection.cfg:982
+msgid "Enough of testing my patience. Now you will know how terrible I am in my anger. Impenetrable darkness will be the last thing you see before you are reborn as my servants!"
+msgstr "Довольно испытывать моё терпение. Сейчас вы узнаете, как я страшен в гневе. Вечная ночь будет последним, что вы увидите, прежде чем переродитесь в моих слуг!"
+
+#. [message]
+#: scenarios/01_Injection.cfg:1100
+msgid "We can't fight the wizards's monsters in the eternal night, at first we must destroy the spheres and stop the darkness!"
+msgstr "Мы не сможем драться с колдунскими исчадиями во мраке вечной ночи, сперва мы должны разрушить сферы и рассеять тьму!"
+
+#. [message]: speaker=DarkLeader
+#: scenarios/01_Injection.cfg:1188
+msgid "Ar, maintaining the spell cost me a lot of effort, and they broke it nonetheless!"
+msgstr "Ар, поддерживать заклинание стоило мне немалых усилий, и они всё равно разрушили его!"
+
+#. [message]: speaker=Naga1
+#: scenarios/01_Injection.cfg:1206
+msgid "The wizard is weakened, let's strike a decisive strike!"
+msgstr "Колдун ослаб, пора нанести решающий удар!"
+
+#. [message]: speaker=unit
+#: scenarios/01_Injection.cfg:1232
+msgid "The orcish banner is awe-inspiring. I think it would make a great trophy! (get the leadership-like ability)."
+msgstr "Знамя орков внушает трепет. Я думаю, это будет отличный трофей! (получить лидерскую способность)."
+
+#. [message]: speaker=unit
+#: scenarios/01_Injection.cfg:1237
+msgid "Should I capture it?"
+msgstr "Я захвачу его?"
+
+#. [option]: speaker=unit
+#: scenarios/01_Injection.cfg:1240
+msgid "Yes, I’ll take it."
+msgstr "Да."
+
+#. [object]
+#: scenarios/01_Injection.cfg:1243 scenarios/01_Injection.cfg:1325
+msgid "Orcish Banner"
+msgstr "Орочье знамя"
+
+#. [object]
+#: scenarios/01_Injection.cfg:1245
+msgid "The tattered banner to commemorate the victory over the Dead Eye and inspire the allies."
+msgstr "Рваное знамя в память о победе над Мёртвым Глазом, воодушевляющее союзников."
+
+#. [leadership]: id=banner
+#: scenarios/01_Injection.cfg:1257 scenarios/01_Injection.cfg:1258 scenarios/01_Injection.cfg:1341 scenarios/01_Injection.cfg:1342
+msgid "Dead Eye banner"
+msgstr "знамя Мёртвого Глаза"
+
+#. [leadership]: id=banner
+#: scenarios/01_Injection.cfg:1259 scenarios/01_Injection.cfg:1343
+msgid "This unit can lead ~allied~ units that are next to it, making them fight better. Adjacent allied units will do 25% more damage. This is cumulative with leadership."
+msgstr "Этот боец воодушевляет ~союзников~, которые находятся рядом с ним, заставляя их сражаться лучше. Соседние союзные бойцы наносят на 25% больше урона. Это суммируется с лидерством."
+
+#. [option]: speaker=unit
+#: scenarios/01_Injection.cfg:1301 scenarios/01_Injection.cfg:1388
+msgid "No, I think someone else should capture it."
+msgstr "Нет, пусть кто-то другой возьмёт его."
+
+#. [message]: speaker=unit
+#: scenarios/01_Injection.cfg:1319
+msgid "Should I capture this banner?"
+msgstr "Я возьму знамя?"
+
+#. [option]: speaker=unit
+#: scenarios/01_Injection.cfg:1322
+msgid "Yes, I’ll capture it."
+msgstr "Да."
+
+#. [object]
+#: scenarios/01_Injection.cfg:1327
+msgid "The tattered banner to commemorate the victory over Dead Eye and inspire the allies."
+msgstr "Рваное знамя в память о победе над Мёртвым Глазом, воодушевляющее союзников."
+
+#. [message]: speaker=unit
+#: scenarios/01_Injection.cfg:1444
+msgid "Uria, how?"
+msgstr "Урия, как?"
+
+#. [message]: speaker=second_unit
+#: scenarios/01_Injection.cfg:1485
+msgid "The hideous wizard is defeated!"
+msgstr "Злобный колдун повержен!"
+
+#. [message]: speaker=OrcLeader
+#: scenarios/01_Injection.cfg:1500
+msgid "Bah, I wanted to kill Arzoteq myself. But nothing will stop me from fulfilling my main goal, which is to crusade for the glory of Uria against the wretched inhabitants of this river!"
+msgstr "Ба, я хотел прикончить Арзотека сам. Но теперь ничто не помешает мне выполнить главную задачу - завоевать ручей и истребить его жалких обитателей во славу Урии!"
+
+#. [message]: speaker=OrcLeader
+#: scenarios/01_Injection.cfg:1535
+msgid "From this mountain, my banner will be visible from anywhere on the battlefield. Let it strike terror into the hearts of my enemies and inspire my warrior!"
+msgstr "С этой горы моё знамя будет видно со всего поля битвы. Пусть оно вселяет ужас в сердца врагов и ободряет моих воинов!"
+
+#. [message]: speaker=Naga1
+#: scenarios/01_Injection.cfg:1593
+msgid "That banner does make me nervous. We must capture it, or the fight will never be won!"
+msgstr "От этого знамени мне не по себе. Мы должны захватить его, или не видать нам победы!"
+
+#. [modify_unit]: role=defender_of_banner
+#: scenarios/01_Injection.cfg:1610
+msgid "Orc Guard"
+msgstr "Орк-страж"
+
+#. [message]
+#: scenarios/01_Injection.cfg:1670
+msgid "You've lost the banner, Gyrza! You're a worthless leader, we'll choose a new one!"
+msgstr "Ты потерял знамя, Гюрза! Ты никчёмный вожак, мы выберем нового!"
+
+#. [message]: speaker=OrcLeader
+#: scenarios/01_Injection.cfg:1675
+msgid "Traitors, I will slaughter you as a sacrifice to Uria when the battle is over!"
+msgstr "После боя я принесу вас в жертву Урии, изменники!"
+
+#. [message]: speaker=Naga2
+#: scenarios/01_Injection.cfg:1680
+msgid "Our plan worked, without the banner the orcs fought each other. Now we can get to their chieftain."
+msgstr "Наш план сработал, без знамени орки переругались друг с другом. Теперь мы можем добраться до их вожака."
+
+#. [message]: speaker=OrcLeader
+#: scenarios/01_Injection.cfg:1737
+msgid "The banner is back in my hands, and the traitors are back in the ranks."
+msgstr "Знамя снова в моих руках, и изменники возвращаются в строй."
+
+#. [message]: speaker=narrator
+#: scenarios/01_Injection.cfg:1770
+msgid "With the death of their leaders, the invaders ran away from the brave nagas maintaining their lines and determination."
+msgstr "Со смертью своих предводителей чужаки побежали прочь от храбрых наг, сохраняющих боевой порядок и решимость сражаться."
+
+#. [message]
+#: scenarios/01_Injection.cfg:1780
+msgid "Another outsider invasion fought off, which means our river is safe. For a while. "
+msgstr "Ещё один набег чужаков отражён, а значит, наш ручей в безопасности. На время."
+
+#. [message]
+#: scenarios/01_Injection.cfg:1785
+msgid "I don't know if we could have won if the orcs and the wizard hadn't fought over the Vessel. I wonder what's so special about it?"
+msgstr "Даже не знаю, смогли ли бы мы победить, если бы орки и колдун не разругались из-за сосуда. Интересно, что в нём такого особенного?"
+
+#. [message]
+#: scenarios/01_Injection.cfg:1790
+msgid "Let's look into it later, now is no time to check out the trophies. We should collect the bodies of our fallen kin and return to the oasis."
+msgstr "Выясним это позже, сейчас не время осматривать трофеи. Соберём тела павших сородичей и вернёмся в оазис."
+
+#. [scenario]: id=vs_scenario_2
+#: scenarios/02_Intoxication.cfg:4
+msgid "Intoxication"
+msgstr "Интоксикация"
+
+#. [part]
+#: scenarios/02_Intoxication.cfg:21
+msgid "Scenario 2: Intoxication"
+msgstr "Сценарий 2: Интоксикация"
+
+#. [part]
+#: scenarios/02_Intoxication.cfg:23
+msgid "Soon the nagas returned to their home oasis..."
+msgstr "Вскоре наги вернулись в родной оазис..."
+
+#. [side]: type=Quenoth Champion, id=ElfLeader
+#: scenarios/02_Intoxication.cfg:59
+msgid "Xailyn"
+msgstr "Ксайлин"
+
+#. [side]: type=Quenoth Champion, id=ElfLeader
+#: scenarios/02_Intoxication.cfg:61
+msgid "Quenoth"
+msgstr "Квенот"
+
+#. [unit]: type=Quenoth Druid, id=ElfDruid
+#: scenarios/02_Intoxication.cfg:68
+msgid "Jali"
+msgstr "Джали"
+
+#. [side]
+#. [side]: type=Vessel_Master, id=Jinn
+#: scenarios/02_Intoxication.cfg:161 scenarios/03_Across_the_Vemonous_Sands.cfg:65 scenarios/04_Final.cfg:65 utils/mp.cfg:14 utils/mp.cfg:28
+msgid "Nagas"
+msgstr "Наги"
+
+#. [label]
+#: scenarios/02_Intoxication.cfg:190 scenarios/02_Intoxication.cfg:526
+msgid "Eloh Temple"
+msgstr "Храм Эло"
+
+#. [objective]: condition=win
+#: scenarios/02_Intoxication.cfg:256
+msgid "Slay all Quenoth Elves"
+msgstr "Перебейте всех эльфов Квенота"
+
+#. [objective]: condition=win
+#: scenarios/02_Intoxication.cfg:271
+msgid "Kill the Quenoth Druid to banish the Eloh magic"
+msgstr "Убейте друидку Квенота, чтобы рассеять магию Эло"
+
+#. [objective]: condition=lose
+#: scenarios/02_Intoxication.cfg:276 scenarios/04_Final.cfg:350
+msgid "Death of Master of the Vessel"
+msgstr "Смерть Хозяина Сосуда"
+
+#. [message]
+#: scenarios/02_Intoxication.cfg:298
+msgid "Welcome back, nagas! You looked like you had a tough fight. What happened?"
+msgstr "С возвращением, наги! Судя по вашему виду, у вас выдался тяжёлый бой. Что случилось?"
+
+#. [message]
+#: scenarios/02_Intoxication.cfg:303
+msgid "A horde of orcs and an evil sorcerer made an attempt on our river, but we defeated them at the Phantom Outpost."
+msgstr "Орда орков и злобный колдун покушались на наш ручей, но мы разбили их у Призрачной Заставы."
+
+#. [message]
+#: scenarios/02_Intoxication.cfg:308
+msgid "And took some great trophies."
+msgstr "И взяли хорошие трофеи."
+
+#. [message]
+#: scenarios/02_Intoxication.cfg:313
+msgid "You did well to protect the river from such formidable foes. But next time do not neglect our help, especially since our army has recently returned from a campaign against demons (by the way, we defeated them!) and is now resting in the settlement."
+msgstr "Вы молодцы, что защитили ручей от столь грозных противников. Но в следующий раз не пренебрегайте нашей помощью, тем более, что наше войско недавно вернулось из похода против демонов (кстати, мы одолели их!) и сейчас отдыхает в поселении."
+
+#. [message]: speaker=Naga1
+#: scenarios/02_Intoxication.cfg:318
+msgid "Alright, we will call you next time."
+msgstr "Договорились."
+
+#. [message]: speaker=narrator
+#: scenarios/02_Intoxication.cfg:331
+msgid "In the oasis, the Nagas buried the fallen with all honors and began to inspect the spoils of war. The Vicious Vessel was again the center of their attention."
+msgstr "В оазисе наги со всеми почестями похоронили павших и стали осматривать военную добычу. Нечестивый Сосуд снова оказался в центре их внимания."
+
+#. [message]
+#: scenarios/02_Intoxication.cfg:336
+msgid "I don't know why, but I can't take my eyes off it. The Vessel is so unusual. I can feel it humming, a little ominously."
+msgstr "Не знаю, почему, но я не могу глаз от него оторвать. Сосуд такой необычный. Я чувствую, как он гудит, немного зловеще."
+
+#. [message]
+#: scenarios/02_Intoxication.cfg:341
+msgid "The evil sorcerer wanted to take it for himself. He said the Vessel was somehow connected to Uria. Maybe we shouldn't have brought such a terrible thing to the oasis."
+msgstr "Злобный колдун хотел забрать его себе. С его слов, Сосуд как-то связан с Урией. Может, не стоило нести в оазис столь страшную вещь?"
+
+#. [message]
+#: scenarios/02_Intoxication.cfg:346
+msgid "Don't be silly, Eloh, the goddess of our elf-friends, reigns here in the oasis. I don't think she's gonna let Uria's magic come here. Since nothing happened to the Vessel, there's nothing to worry about. "
+msgstr "Не говори глупостей, здесь, в оазисе, царствует Эло, богиня наших друзей-эльфов. Вряд ли она пропустит магию Урии сюда. Раз с Сосудом ничего не случилось, значит, волноваться не о чем."
+
+#. [message]: speaker=narrator
+#: scenarios/02_Intoxication.cfg:352
+msgid "As soon as these words flew from the Naga's tongue, the Vessel rumbled, shuddered, roared, a shroud as black as night rushed from the neck and enveloped the heroes; the ominous figure of the Vessel's inhabitant emerged from the blackness."
+msgstr "Едва эти слова слетели с языка нага, как сосуд загудел, задрожал, заурчал, черная как ночь пелена хлынула из горлышка и окутала героев; из черноты показалась зловещая фигура обитателя Сосуда."
+
+#. [event]: id=Naga1 18 9}, id=Naga2 19 9}, id=Naga1 22 17}, id=Naga2 28 14}, id=Jinn
+#. [side]: type=Vessel_Master, id=Jinn
+#. [unit]: id=Jinn
+#. [unit_type]: id=Vessel_Master, race=monster
+#. [unit_type]: id=Vessel_Master_Full, race=monster
+#: scenarios/02_Intoxication.cfg:367 scenarios/03_Across_the_Vemonous_Sands.cfg:604 scenarios/03_Across_the_Vemonous_Sands.cfg:868 scenarios/04_Final.cfg:60 units/Vessel_master.cfg:8 units/Vessel_master.cfg:272
+msgid "Master of the Vessel"
+msgstr "Хозяин Сосуда"
+
+#. [message]
+#: scenarios/02_Intoxication.cfg:374
+msgid "What are you?"
+msgstr "Кто ты такой?"
+
+#. [message]: speaker=Jinn
+#: scenarios/02_Intoxication.cfg:380
+msgid "Your primitive serpent mind cannot comprehend me, be pleased with the thought that I am the face of the great power that chose you."
+msgstr "Твой примитивный змеиный разум не в состоянии постичь меня, довольствуйся мыслью, что я – образ великой силы, что выбрала вас."
+
+#. [message]
+#: scenarios/02_Intoxication.cfg:385
+msgid "But you live in my Vessel, don't you have to obey me?"
+msgstr "Но ты живёшь в моём Сосуде, разве ты не должен подчиняться мне?"
+
+#. [message]: speaker=Jinn
+#: scenarios/02_Intoxication.cfg:391
+msgid "Foolish creature, you have spent hours looking at my Vessel, but you never realized that it has a will of its own - mine - and that not you, but I am the master here!"
+msgstr "Глупое создание, ты часами разглядывало мой Сосуд, но так и не осознало, что он обладает собственной – моей – волей, и что не ты, но я здесь – господин!"
+
+#. [message]
+#: scenarios/02_Intoxication.cfg:396
+msgid "You said you chose us, but why, what do you want?"
+msgstr "Ты сказал, что избрал нас, но почему, что тебе нужно?"
+
+#. [message]: speaker=Jinn
+#: scenarios/02_Intoxication.cfg:402
+msgid "I do not initiate mortals into my plans; but since you have proved of some value by defeating Gyrza and Arzoteq, I grant you one drop from the vast ocean of my designs as a reward."
+msgstr "Я не посвящаю смертных в свои планы; но поскольку вы доказали определённую ценность, разгромив Гюрзу и Арзотека, я дарую вам одну каплю из бескрайнего океана моих замыслов в качестве вознаграждения."
+
+#. [message]: speaker=Jinn
+#: scenarios/02_Intoxication.cfg:408
+msgid "You are destined to fall as slaves to wake up free; just as the flapping of a bird's wing brings a hurricane to the other side of the world, so your freedom will throw off the shackles of forces beyond your imagination.  In your dreams you will hear only my voice. Follow it exactly and you will wake up. If you disobey it, your bones will disappear forever beneath the sand."
+msgstr "Вам суждено заснуть рабами, чтобы проснуться свободными; как взмах птичьего крыла рождает ураган на другом конце мира, так и ваша свобода сбросит оковы с сил, неподвластных вашему воображению.  Во сне вы будете слышать лишь мой голос. Следуйте ему в точности, и проснётесь. Ослушаетесь его – и ваши кости навеки исчезнут под толщей песка."
+
+#. [message]
+#: scenarios/02_Intoxication.cfg:413
+msgid "I don't understand. What if we don't want to do your designs?"
+msgstr "Ничего не понимаю. А если мы не захотим исполнять твои замыслы?"
+
+#. [message]: speaker=Jinn
+#: scenarios/02_Intoxication.cfg:419
+msgid "What makes you think, you stupid creature, that you have a choice? I told you, I'm the master here!"
+msgstr "С чего ты взял, глупое создание, что у тебя есть выбор? Я же сказал, я здесь – господин!"
+
+#. [floating_text]
+#: scenarios/02_Intoxication.cfg:438 scenarios/02_Intoxication.cfg:488 scenarios/02_Intoxication.cfg:637
+msgid "BEWITCHED!"
+msgstr "ОКОЛДОВАН!"
+
+#. [dummy]: id=rage
+#: scenarios/02_Intoxication.cfg:461 scenarios/02_Intoxication.cfg:511 scenarios/02_Intoxication.cfg:663
+msgid "vessel curse"
+msgstr "проклятие сосуда"
+
+#. [dummy]: id=rage
+#: scenarios/02_Intoxication.cfg:462 scenarios/02_Intoxication.cfg:512 scenarios/02_Intoxication.cfg:664
+msgid "The Vessel Master enchanted this unit and awakened an unprecedented rage within him. The unit deals 33% more damage."
+msgstr "Хозяин Сосуда заколдовал этого бойца и пробудил в его душе великую ярость. Боец наносит на 33% больше урона."
+
+#. [message]: speaker=Jinn
+#: scenarios/02_Intoxication.cfg:541
+msgid "You have fallen asleep; you are my slaves."
+msgstr "Вы заснули; вы – мои рабы."
+
+#. [message]: speaker=Jinn
+#: scenarios/02_Intoxication.cfg:547
+msgid "Only strong gains freedom. To wake up, you must become stronger. Listen to my first order: exterminate all the elves in this settlement, drink their blood, take their strength!"
+msgstr "Лишь сильные обретают свободу. Чтобы проснуться, вы должны стать сильнее. Слушайте мой первый приказ: истребите всех эльфов в этой деревне, испейте их кровь, заберите их силу!"
+
+#. [message]
+#. [message]: speaker=Naga1
+#. [message]: speaker=Naga2
+#: scenarios/02_Intoxication.cfg:552 scenarios/02_Intoxication.cfg:557 scenarios/02_Intoxication.cfg:1266 scenarios/02_Intoxication.cfg:1271 scenarios/04_Final.cfg:279 scenarios/04_Final.cfg:284
+msgid "Yes, master."
+msgstr "Да, господин."
+
+#. [message]: speaker=ElfLeader
+#: scenarios/02_Intoxication.cfg:567
+msgid "Something is happening in the heart of the oasis. I'm worried about the Nagas."
+msgstr "Что-то происходит в сердце оазиса. Я беспокоюсь за нагов."
+
+#. [message]: speaker=ElfDruid
+#: scenarios/02_Intoxication.cfg:572
+msgid "I could feel that something had entered the oasis with them, but only now did I realize what a terrible force it was. It's coming from Uria herself! And worst of all, it had already taken over the Nagas."
+msgstr "Я чувствовала, что вместе с ними в оазис проникло нечто, но лишь сейчас осознала, насколько это страшная сила. Она исходит от самой Урии! И, что самое страшное, она уже овладела нагами."
+
+#. [message]: speaker=ElfLeader
+#: scenarios/02_Intoxication.cfg:577
+msgid "Then we have to kill them?"
+msgstr "Тогда нам придётся убить их?"
+
+#. [message]: speaker=ElfDruid
+#: scenarios/02_Intoxication.cfg:582
+msgid "I fear so, for they will surely try to kill us at the behest of the dark goddess. Still, I hope the Nagas can still be saved. First, let's try to get to the heart of the oasis and eradicate something. If that fails... we have no other choice."
+msgstr "Боюсь, что так, ведь они точно попытаются убить нас по приказу тёмной богини. И все же я надеюсь, что нагов ещё можно спасти. Прежде всего, попытаемся добраться до сердца оазиса и искоренить нечто. Если не выйдет… у нас не будет другого выбора."
+
+#. [message]: speaker=ElfLeader
+#: scenarios/02_Intoxication.cfg:587
+msgid "My hand will not waver, it's their own fault for bringing evil into our home. Let's do it!"
+msgstr "Моя рука не дрогнет, они сами виноваты, что принесли зло в наш дом. За дело!"
+
+#. [object]: id=Jinn_Heal
+#. [object]: id=Naga_Heal
+#: scenarios/02_Intoxication.cfg:598 scenarios/03_Across_the_Vemonous_Sands.cfg:710
+msgid "Vessel's Master Magic"
+msgstr "Чары Хозяина Сосуда"
+
+#. [object]: id=Jinn_Heal
+#: scenarios/02_Intoxication.cfg:599
+msgid "In this scenario, the Vessel's Master will cure and heal your units adjacent to him. Also, he will enchant your recruit and recalled units to make them deal +33% damage."
+msgstr "В этом сценарии Хозяин Сосуда будет исцелять и лечить соседних с ним бойцов. Также он будет околдовывать завербованных или призванных бойцов, увеличивая их урон на 33%."
+
+#. [message]: speaker=unit
+#: scenarios/02_Intoxication.cfg:685
+msgid "I didn't make it... to save everyone... Eloh!"
+msgstr "Я не смогла... спасти всех... Эло!"
+
+#. [message]: speaker=unit
+#: scenarios/02_Intoxication.cfg:698
+msgid "I perish from the evil you bring, but it will destroy you as well!"
+msgstr "Я сражён злою силой, что вы принесли, но она уничтожит и вас!"
+
+#. [message]: speaker=ElfDruid
+#: scenarios/02_Intoxication.cfg:715
+msgid "Our enemy cannot be banished by force of arms, I can feel his aura growing stronger with each fallen elf. Never before have I faced <i>such</i> evil. I will call upon Eloh, only She can defeat it!"
+msgstr "Нашего врага не изгнать силой оружия, я чувствую, как его аура усиливается с каждым павшим эльфом. Никогда прежде я не сталкивалась с <i>таким</i> злом. Я обращусь к Эло, только Она сможет победить его!"
+
+#. [message]: speaker=narrator
+#: scenarios/02_Intoxication.cfg:723
+msgid "Entering the temple, the priestess fell to her knees and began to pray frantically; suddenly a golden light illuminated the walls and windows, Eloh's servants, created of solar fire, stood in a ring around the elf, and a threatening divine voice struck the heads of the Nagas and Master of the Vessel."
+msgstr "Войдя в храм, жрица упала на колени и стала неистово молиться; вдруг золотистый свет озарил стены и окна, вокруг эльфийки кольцом встали сотканные из солнечного огня слуги Эло, а в головы нагов и Хозяина Сосуда ударил грозный божественный глас:"
+
+#. [time]: id=divine_light
+#: scenarios/02_Intoxication.cfg:731 scenarios/02_Intoxication.cfg:736 scenarios/02_Intoxication.cfg:746 scenarios/02_Intoxication.cfg:751
+msgid "Divine Light"
+msgstr "Божественный свет"
+
+#. [trait]
+#: scenarios/02_Intoxication.cfg:809
+msgid "divine"
+msgstr "божественный"
+
+#. [trait]
+#: scenarios/02_Intoxication.cfg:810
+msgid "female^divine"
+msgstr "божественная"
+
+#. [message]: speaker=narrator
+#: scenarios/02_Intoxication.cfg:844
+msgid "AWAY FROM THE OASIS, DEMON! FROM THE HOME OF THE DESERT ELVES, FROM THE HEARTS OF THEIR NAGA FRIENDS, FROM MY LIGHT - AWAY!"
+msgstr "ПРОЧЬ ИЗ ОАЗИСА, ДЕМОН! ИЗ ДОМА ПУСТЫННЫХ ЭЛЬФОВ, ИЗ СЕРДЕЦ ИХ ДРУЗЕЙ-НАГОВ, ОТ МОЕГО СВЕТА – ПРОЧЬ!"
+
+#. [message]: speaker=Jinn
+#: scenarios/02_Intoxication.cfg:850
+msgid "Argh! Kill the damned priestess! Destroy the cursed temple! Shield me from Eloh!"
+msgstr "Ар! Убейте проклятую жрицу! Разрушьте поганый храм! Закройте меня от Эло!"
+
+#. [object]: id=eloh_ritual
+#: scenarios/02_Intoxication.cfg:857
+msgid "Eloh Ritual"
+msgstr "Ритуал Эло"
+
+#. [object]: id=eloh_ritual
+#: scenarios/02_Intoxication.cfg:858
+msgid "As long as the Jali is alive, Eloh Ritual will deal 16 damage to the Vessel's Master every turn."
+msgstr "Пока Джали жива, Ритуал Эло будет наносить 16 урона Хозяину Сосуда каждый ход."
+
+#. [message]: speaker=narrator
+#: scenarios/02_Intoxication.cfg:930
+msgid "Even under the hail of blows, the priestess continued to pray until she lost her breath. With her death, the elves' connection to Eloh was severed, the golden light faded, the Sun Guardians dispersed. The Nagi razed the temple to the ground, sealing the horrors of the oasis from the gaze of the Light Goddess."
+msgstr "Даже под градом ударов, жрица продолжала молиться, пока не испустила дух. С её смертью связь эльфов с Эло оборвалась, золотистый свет померк, солнечные стражи рассеялись. Наги до основания разрушили храм, ужасы оазиса от взора Светлой Богини."
+
+#. [message]: speaker=Naga1
+#: scenarios/02_Intoxication.cfg:996
+msgid "The elvish patrols are returning to the settlement."
+msgstr "Дозорные эльфы возвращаются в поселение."
+
+#. [message]: speaker=Naga2
+#: scenarios/02_Intoxication.cfg:1001
+msgid "We must kill them all!"
+msgstr "Перебьём их всех!"
+
+#. [message]: speaker=second_unit
+#: scenarios/02_Intoxication.cfg:1065
+msgid "This is the last one."
+msgstr "Это последний."
+
+#. [message]: speaker=Jinn
+#: scenarios/02_Intoxication.cfg:1109
+msgid "Who would have thought that these serpent creatures had never before interacted with power equal to mine. Their souls are a blank slate, they resist no spell, no divinity or demon protects them; there are no better candidates for executing the Plan in all the desert!"
+msgstr "Кто бы мог подумать, что эти змеиные создания никогда прежде не взаимодействовали с силой, равной моей. Их души – чистый лист, они не сопротивляются чарам, ни одно божество или демон не защищает их; лучших кандидатов для исполнения Плана не сыскать во всей пустыне!"
+
+#. [message]: speaker=Jinn
+#: scenarios/02_Intoxication.cfg:1115
+msgid "Let's see how they themselves appreciate what they've done when I've loosened the spell."
+msgstr "Посмотрим, как они сами оценят содеянное, когда я ослаблю чары."
+
+#. [floating_text]
+#: scenarios/02_Intoxication.cfg:1134 scenarios/02_Intoxication.cfg:1154
+msgid "The spell is loose!"
+msgstr "Чары ослабли!"
+
+#. [message]
+#: scenarios/02_Intoxication.cfg:1167
+msgid "What happened? I remember falling into darkness and then..."
+msgstr "Что случилось? Я помню, как провалился во тьму, а затем…"
+
+#. [message]
+#: scenarios/02_Intoxication.cfg:1172
+msgid "Our oasis is flooded with blood! The elves have been slaughtered! The Vessel Monster, did you do this?!"
+msgstr "Наш оазис залит кровью! Эльфы убиты! Монстр из Сосуда, это ты сделал?!"
+
+#. [message]: speaker=Jinn
+#: scenarios/02_Intoxication.cfg:1178
+msgid "No, you did!"
+msgstr "Нет, это сделали вы!"
+
+#. [message]
+#: scenarios/02_Intoxication.cfg:1183
+msgid "Our weapons and armor truly are bloodied, but how did we defeat an entire elvish army? It's impossible!"
+msgstr "Наше оружие и доспехи и впрямь в крови, но как мы перебили всё войско эльфов? Это невозможно!"
+
+#. [message]: speaker=Jinn
+#: scenarios/02_Intoxication.cfg:1189
+msgid "You don't realize the power that lies within you; for a moment I unleashed it. The defeated elvish army is the result!"
+msgstr "Вы и понятия не имеете о силе, скрытой в вас; на миг я высвободил её. Вот результат – поверженное эльфийское войско!"
+
+#. [message]
+#: scenarios/02_Intoxication.cfg:1194
+msgid "You made us kill our friends! We'll kill you for that!"
+msgstr "Ты заставил нас убить наших друзей! За это мы убьём тебя!"
+
+#. [message]: speaker=Jinn
+#: scenarios/02_Intoxication.cfg:1200
+msgid "You're still under my control, you stupid creature! All of you! I could make you gut yourself right now!"
+msgstr "Ты всё ещё под моим контролем, глупое создание! Все вы! Я могу прямо сейчас заставить тебя распороть себе брюхо!"
+
+#. [message]: speaker=narrator
+#: scenarios/02_Intoxication.cfg:1206
+msgid "$naga_no_vessel.name felt himself losing control of his own hands and reached for the dagger."
+msgstr "$naga_no_vessel.name почувствовал, как теряет контроль над собственными руками и тянется к кинжалу."
+
+#. [message]
+#: scenarios/02_Intoxication.cfg:1211
+msgid "Don't! Did you get what you wanted? Will you leave us alone now?"
+msgstr "Не надо! Ты получил, что хотел? Теперь ты оставишь нас в покое?"
+
+#. [message]: speaker=Jinn
+#: scenarios/02_Intoxication.cfg:1217
+msgid "No, I'm just making sure you're suitable for the Plan."
+msgstr "Нет, я лишь убедился, что вы подходите для исполнения Плана."
+
+#. [message]
+#: scenarios/02_Intoxication.cfg:1222
+msgid "What Plan?"
+msgstr "Какого Плана?"
+
+#. [message]: speaker=Jinn
+#: scenarios/02_Intoxication.cfg:1228
+msgid "I will not condescend to repeat myself, you foolish creature; be satisfied with the thought that everything is going as it should."
+msgstr "Я не снизойду до повторений, глупое создание; довольствуйся мыслью, что всё идёт, как надо."
+
+#. [message]
+#: scenarios/02_Intoxication.cfg:1233
+msgid "Are you going to plunge us back into darkness and use us as your puppets?"
+msgstr "Ты снова погрузишь нас во тьму и используешь, как своих марионеток?"
+
+#. [message]: speaker=Jinn
+#: scenarios/02_Intoxication.cfg:1239
+msgid "I could control you all the time, but it's too easy. I enjoyed the way you killed the elves. For that, I can keep you awake if you swear to follow three rules."
+msgstr "Я мог бы контролировать вас всё время, но это слишком просто. Мне понравилось, как вы перебили эльфов. За это я могу оставить вас в сознании, если заречётесь следовать трём правилам."
+
+#. [message]
+#: scenarios/02_Intoxication.cfg:1244
+msgid "What Rules?"
+msgstr "Каким правилам?"
+
+#. [message]: speaker=Jinn
+#: scenarios/02_Intoxication.cfg:1250
+msgid "One, call me Master. Two, obey all my orders unconditionally. And three, don't annoy me with meaningless questions."
+msgstr "Первое – называть меня Господином. Второе – выполнять все мои приказы беспрекословно. И третье – не раздражать меня бессмысленными вопросами."
+
+#. [message]
+#: scenarios/02_Intoxication.cfg:1255
+msgid "Then we await your orders, Master."
+msgstr "Тогда ждём приказаний, Господин."
+
+#. [message]: speaker=Jinn
+#: scenarios/02_Intoxication.cfg:1261
+msgid "Empty the settlement, gather all the supplies you can find, and head downstream to the south creek."
+msgstr "Опустошите поселение, соберите все припасы, какие найдёте, и отправляйтесь вниз по течению южного ручья."
+
+#. [scenario]: id=vs_scenario_3
+#: scenarios/03_Across_the_Vemonous_Sands.cfg:4
+msgid "Across the Venomous Sands"
+msgstr "По ядовитым пескам"
+
+#. [part]
+#: scenarios/03_Across_the_Vemonous_Sands.cfg:24
+msgid "The Nagas ravaged the village and filled the bales to the brim with elven supplies. Master of the Vessel, now their Master as well, ordered to dump the elves' bodies in the oasis to poison the water with corpse poison and cut off the way back forever."
+msgstr "Наги разорили деревню и доверху набили тюки эльфийскими припасами. Хозяин Сосуда, ставший теперь и их Хозяином, приказал сбросить тела эльфов в оазис, чтобы отравить воду трупным ядом и навсегда отрезать путь назад."
+
+#. [part]
+#: scenarios/03_Across_the_Vemonous_Sands.cfg:27
+msgid "With their own hands the Nagas had destroyed the home they cherished most. But they had no time to realize the ironic horror of what they did: the cruel Master of the Vessel ordered them to move south immediately."
+msgstr "Своими руками наги разрушили дом, который поклялись защищать. Но у них не было времени, чтобы осознать весь ироничный ужас содеянного: жестокий хозяин Сосуда велел немедленно выдвигаться на юг."
+
+#. [part]
+#: scenarios/03_Across_the_Vemonous_Sands.cfg:30
+msgid "Scenario 3: Across the Venomous Sands"
+msgstr "Сценарий 3: По ядовитым пескам"
+
+#. [part]
+#: scenarios/03_Across_the_Vemonous_Sands.cfg:31
+msgid "In their minds, Typhon and Python wondered why they should go south, into the land of poisonous sands, from which only troubles had long come - but no one dared to ask, for the anger of Master of the Vessel was terrible."
+msgstr "Мысленно Тифон и Пифон задавались вопросом – зачем идти на юг, в край ядовитых песков, из которых издавна приходили одни только беды – однако никто не осмелился задать его, ибо страшен был гнев Хозяина Сосуда."
+
+#. [side]
+#: scenarios/03_Across_the_Vemonous_Sands.cfg:95
+msgid "Monsters"
+msgstr "Чудовища"
+
+#. [side]
+#: scenarios/03_Across_the_Vemonous_Sands.cfg:108
+msgid "Ogres"
+msgstr "Огры"
+
+#. [side]
+#: scenarios/03_Across_the_Vemonous_Sands.cfg:122
+msgid "Undead"
+msgstr "Мертвецы"
+
+#. [side]: type=Herald of Uria, id=Dark_Leader2
+#: scenarios/03_Across_the_Vemonous_Sands.cfg:136
+msgid "Qi'Bedur"
+msgstr "Ки'Бедур"
+
+#. [switch]
+#: scenarios/03_Across_the_Vemonous_Sands.cfg:340
+msgid "Terrible Roc"
+msgstr "Ужасный Рок"
+
+#. [message]: speaker=unit
+#: scenarios/03_Across_the_Vemonous_Sands.cfg:352
+msgid "Ar-r-r! Worms, worms, my nestlings will peck you anyway!"
+msgstr "Ар-р-р! Черви, черви, мои птенцы всё равно заклюют вас!"
+
+#. [message]
+#: scenarios/03_Across_the_Vemonous_Sands.cfg:358
+msgid "I don't think that huge bird is Qi'Bedur. But it's a good thing we beat it!"
+msgstr "Не думаю, что эта огромная птица - Ки'Бедур. Но хорошо, что мы одолели её!"
+
+#. [message]: speaker=second_unit
+#: scenarios/03_Across_the_Vemonous_Sands.cfg:371
+msgid "The claw of this monster would make a great trophy!"
+msgstr "Коготь этого чудища будет отличным трофеем!"
+
+#. [event]
+#: scenarios/03_Across_the_Vemonous_Sands.cfg:380
+msgid "$unit.name finds a claw of Great Rock. Should he pick it up? (+15% accuracy to attacks)"
+msgstr "$unit.name видит коготь Ужасного Рока. Взять коготь? (+15% меткости на атаки)"
+
+#. [event]
+#: scenarios/03_Across_the_Vemonous_Sands.cfg:381
+msgid "rocs claw^Take it"
+msgstr "Да"
+
+#. [event]
+#: scenarios/03_Across_the_Vemonous_Sands.cfg:382
+msgid "rocs claw^Leave it"
+msgstr "Нет"
+
+#. [event]
+#: scenarios/03_Across_the_Vemonous_Sands.cfg:383
+msgid "$unit.name finds a claw of Great Rock. But only a naga can take it!"
+msgstr ""
+
+#. [object]
+#: scenarios/03_Across_the_Vemonous_Sands.cfg:385
+msgid "Claw of Great Tock"
+msgstr "Коготь Ужасного Рока"
+
+#. [object]
+#: scenarios/03_Across_the_Vemonous_Sands.cfg:387
+msgid "This claw grants the wearer +15% accuracy to attacks!"
+msgstr "Коготь дарует носителю +15% точности атак!"
+
+#. [switch]
+#: scenarios/03_Across_the_Vemonous_Sands.cfg:399
+msgid "Wrath of the earth"
+msgstr "Гнев Земли"
+
+#. [message]: speaker=unit
+#: scenarios/03_Across_the_Vemonous_Sands.cfg:411
+msgid "Ugly creatures! Turned the... the earth... into sand... slaughtered... us... The earth will return what's itss!"
+msgstr "Гадкие твари! Превратили... землю... в песок... погубили... нас... Земля всё равно возьмёт своё!"
+
+#. [message]
+#: scenarios/03_Across_the_Vemonous_Sands.cfg:417
+msgid "That evil pile of earth is definitely not Qi'Bedur."
+msgstr "Эта злобная куча земли точно не Ки'Бедур."
+
+#. [message]: speaker=second_unit
+#: scenarios/03_Across_the_Vemonous_Sands.cfg:430
+msgid "This thing consisted of some kind of magical mud. Maybe it could be a trophy?"
+msgstr "От неё осталась кучка волшебной глины. Может, она сойдёт за трофей?"
+
+#. [event]
+#: scenarios/03_Across_the_Vemonous_Sands.cfg:439
+msgid "$unit.name finds a magical mud. Should he pick it up? (gives a regenerates ability)"
+msgstr "$unit.name видит волшебную глину. Стоит ли взять её? (дарует способность 'регенерация')"
+
+#. [event]
+#: scenarios/03_Across_the_Vemonous_Sands.cfg:440
+msgid "magic_mud^Take it"
+msgstr "Да"
+
+#. [event]
+#: scenarios/03_Across_the_Vemonous_Sands.cfg:441
+msgid "magic_mud^Leave it"
+msgstr "Нет"
+
+#. [event]
+#: scenarios/03_Across_the_Vemonous_Sands.cfg:442
+msgid "$unit.name finds a finds a magical mud. But only a naga can take it!"
+msgstr ""
+
+#. [object]
+#: scenarios/03_Across_the_Vemonous_Sands.cfg:444
+msgid "Magical Mud"
+msgstr "Волшебная глина"
+
+#. [object]
+#: scenarios/03_Across_the_Vemonous_Sands.cfg:446
+msgid "This mud grants the wearer a regenerates ability!"
+msgstr "Волшебная глина дарует владельцу способность регенерация!"
+
+#. [switch]
+#: scenarios/03_Across_the_Vemonous_Sands.cfg:459
+msgid "Moog the Overterrible"
+msgstr "Муг Преужасный"
+
+#. [message]: speaker=unit
+#: scenarios/03_Across_the_Vemonous_Sands.cfg:471
+msgid "I wanted to crunch fried snake tails but now it's my bones that are crunching!"
+msgstr "Я хотел похрустеть жареными хвостами змей, но теперь хрустят мои косточки!"
+
+#. [message]
+#: scenarios/03_Across_the_Vemonous_Sands.cfg:477
+msgid "He didn't say anything about the Master, so it's not Qi'Bedur. Glad he didn't eat us."
+msgstr "Он ничего не сказал о Хозяине, значит, это не Ки'Бедур. Зато он не сожрал нас!"
+
+#. [message]: speaker=second_unit
+#: scenarios/03_Across_the_Vemonous_Sands.cfg:490
+msgid "That monster's belt is longer than my tail! That would be a good trophy."
+msgstr "Пояс этого чудища длиннее моего хвоста! Вот славный трофей выйдет."
+
+#. [event]
+#: scenarios/03_Across_the_Vemonous_Sands.cfg:499
+msgid "$unit.name finds a giant belt. Should he pick it up? (gives +30% to hitpoints)"
+msgstr "$unit.name видит пояс великана. Надеть его? (дарует +30% здоровья)"
+
+#. [event]
+#: scenarios/03_Across_the_Vemonous_Sands.cfg:500
+msgid "giant_belt^Take it"
+msgstr "Да"
+
+#. [event]
+#: scenarios/03_Across_the_Vemonous_Sands.cfg:501
+msgid "giant_belt^Leave it"
+msgstr "Нет"
+
+#. [event]
+#: scenarios/03_Across_the_Vemonous_Sands.cfg:502
+msgid "$unit.name finds a finds a giant belt. But only a naga can take it!"
+msgstr ""
+
+#. [object]
+#: scenarios/03_Across_the_Vemonous_Sands.cfg:504
+msgid "Giant Belt"
+msgstr "Пояс великана"
+
+#. [object]
+#: scenarios/03_Across_the_Vemonous_Sands.cfg:506
+msgid "This belt grants the wearer +30% hitpoints!"
+msgstr "Этот пояс увеличивает здоровье владельца на 30%!"
+
+#. [switch]
+#: scenarios/03_Across_the_Vemonous_Sands.cfg:518
+msgid "Lord Konrad"
+msgstr "Лорд Конрад"
+
+#. [message]: speaker=unit
+#: scenarios/03_Across_the_Vemonous_Sands.cfg:530
+msgid "The enemy has taken our fortress, what will happen to Wesnoth?"
+msgstr "Враг захватил нашу крепость, что теперь станет с Веснотом?"
+
+#. [message]
+#: scenarios/03_Across_the_Vemonous_Sands.cfg:536
+msgid "He talks about Wesnoth, just like the ghosts in Phantom Outpost. It's not Qi'Bedur."
+msgstr "Он говорил о Весноте, прямо как те призраки с Призрачной Заставы. Это не Ки'Бедур."
+
+#. [message]: speaker=second_unit
+#: scenarios/03_Across_the_Vemonous_Sands.cfg:548
+msgid "The ghost disappeared, but his armour remained. So ancient, but still beautiful and sturdy. It's a great trophy!"
+msgstr "Призрак исчез, но его доспехи остались. Такие древние, такие прочные и красивые. Всем трофеям трофей!"
+
+#. [event]
+#: scenarios/03_Across_the_Vemonous_Sands.cfg:557
+msgid "$unit.name finds a dread armour. Should he pick it up? (+20% physical resistances, but -20% to arcane.)"
+msgstr "$unit.name видит древние латы. Стоит ли надеть их? (+20% к колющему, режущему и крушающему, -20% к мистическому сопротивлению)"
+
+#. [event]
+#: scenarios/03_Across_the_Vemonous_Sands.cfg:558
+msgid "dread_armour^Take it"
+msgstr "Да"
+
+#. [event]
+#: scenarios/03_Across_the_Vemonous_Sands.cfg:559
+msgid "dread_armour^Leave it"
+msgstr "Нет"
+
+#. [event]
+#: scenarios/03_Across_the_Vemonous_Sands.cfg:560
+msgid "$unit.name finds a finds a dread armour. But only a naga can take it!"
+msgstr ""
+
+#. [object]
+#: scenarios/03_Across_the_Vemonous_Sands.cfg:562
+msgid "Dread Armour"
+msgstr "Древние латы"
+
+#. [object]
+#: scenarios/03_Across_the_Vemonous_Sands.cfg:564
+msgid "This armour grants the weaver +20% physical resistances, but -20% to arcane."
+msgstr "Эти латы даруют носителю +20% к физическим сопротивлениям, но -20% к мистическому."
+
+#. [message]: speaker=Jinn
+#: scenarios/03_Across_the_Vemonous_Sands.cfg:660
+msgid "On the border between the two seas lives Qi'Bedur. Seek him out and kill for me. The creek will direct your path."
+msgstr "На границе меж двух морей живёт Ки’Бедур. Разыщите и убейте его для меня. Ручей укажет вам путь."
+
+#. [message]
+#: scenarios/03_Across_the_Vemonous_Sands.cfg:665
+msgid "How do we recognize Qi'Bedur, Master?"
+msgstr "Как мы узнаем Ки’Бедура, Господин?"
+
+#. [message]: speaker=Jinn
+#: scenarios/03_Across_the_Vemonous_Sands.cfg:671
+msgid "He will immediately talk about me."
+msgstr "Он сразу заговорит обо Мне."
+
+#. [message]
+#: scenarios/03_Across_the_Vemonous_Sands.cfg:676
+msgid "Will you accompany us on our quest, Master?"
+msgstr "Вы не сопроводите нас в пути, Господин?"
+
+#. [message]: speaker=Jinn
+#: scenarios/03_Across_the_Vemonous_Sands.cfg:682
+msgid "I will be inside the Vessel, and my magic will help you, but be afraid to summon me. If your stupidity or weakness forces me to leave the Vessel, I will turn your bones to sand, and instead of blood, boiling oil will flow through your veins!"
+msgstr "Я буду внутри Сосуда, мои чары окажут вам помощь, но страшитесь вызывать меня. Если ваша глупость или слабость вынудит меня покинуть Сосуд, я обращу ваши кости в песок, а вместо крови по вашим венам польётся кипящее масло!"
+
+#. [message]: speaker=narrator
+#: scenarios/03_Across_the_Vemonous_Sands.cfg:693
+msgid "With these words, the Master turned into a whirlwind of sand and disappeared into the depths of the Vicious Vessel"
+msgstr "С этими словами Хозяин обратился в вихрь песка и скрылся в глубине Нечестивого Сосуда"
+
+#. [message]
+#: scenarios/03_Across_the_Vemonous_Sands.cfg:698
+msgid "The Master said that Qi'Bedur lives between two seas, but what is a sea? Have you heard anything about it?"
+msgstr "Господин сказал, что Ки’Бедур живёт меж двух морей, но что такое море? Ты что-нибудь слышал об этом?"
+
+#. [message]
+#: scenarios/03_Across_the_Vemonous_Sands.cfg:703
+msgid "No, but if we can beat the elves with his magic, then we can make this journey. Let's do it!"
+msgstr "Нет, но раз с его чарами мы сумели перебить эльфов, значит, и это путешествие нам по силам. За дело!"
+
+#. [object]: id=Naga_Heal
+#: scenarios/03_Across_the_Vemonous_Sands.cfg:711
+msgid "In this scenario, the Vessel's Master will cure and heal your units adjacent to the bearer of the Vessel."
+msgstr "В этом сценарии носитель Нечестивого Сосуда может исцелять и лечить стоящих рядом союзников."
+
+#. [objective]: condition=win
+#: scenarios/03_Across_the_Vemonous_Sands.cfg:728
+msgid "Find and kill Qi'Bedur"
+msgstr "Разыщите и убейте Ки'Бедура"
+
+#. [message]: speaker=unit
+#: scenarios/03_Across_the_Vemonous_Sands.cfg:780
+msgid "Invasion! Warn Qi'Bedur!"
+msgstr "Вторжение! Предупредить Ки'Бедура!"
+
+#. [message]
+#: scenarios/03_Across_the_Vemonous_Sands.cfg:788
+msgid "He said Qi'Bedur! Follow him! We're almost there!"
+msgstr "Он сказал Ки’Бедур! Мы почти у цели!"
+
+#. [message]: speaker=unit
+#: scenarios/03_Across_the_Vemonous_Sands.cfg:807
+msgid "I sense the presence of the Vicious Vessel. It returns to our abode. But why not in Arzoteq's hands? After all, he was the one chosen to bring it back..."
+msgstr "Я чувствую присутствие Нечестивого Сосуда. Он возвращается в нашу обитель. Но почему не в руках Арзотека? Ведь это он был избран, чтобы вернуть его…"
+
+#. [message]
+#: scenarios/03_Across_the_Vemonous_Sands.cfg:812
+msgid "He spoke of the Master, it is definitely Qi'Bedur!"
+msgstr "Он заговорил о Хозяине, это точно Ки’Бедур!"
+
+#. [message]
+#: scenarios/03_Across_the_Vemonous_Sands.cfg:817
+msgid "Arzoteq is dead, and you're next, Qi'Bedur!"
+msgstr "Арзотек мёртв, и ты следующий, Ки’Бедур!"
+
+#. [message]: speaker=unit
+#: scenarios/03_Across_the_Vemonous_Sands.cfg:822
+msgid "Is that so? Filthy jug, even though you defeated Arzotek far from our borders, you will lose here in Uria's territory! I will personally reform you and bring you back under the Goddess' hand!"
+msgstr "Вот как? Поганый кувшин, хоть ты и победил Арзотека вдали от наших границ, но здесь, на территории Урии, ты проиграешь! Я лично исправлю тебя и верну под длань Богини!"
+
+#. [message]: speaker=unit
+#: scenarios/03_Across_the_Vemonous_Sands.cfg:841
+msgid "How did heresy get this far?  Uria, protect us!"
+msgstr "Как ересь зашла так далеко?  Урия, храни нас!"
+
+#. [message]: speaker=Jinn
+#: scenarios/03_Across_the_Vemonous_Sands.cfg:876
+msgid "Pathetic Qi'Bedur! How much power he had in his soul, and how he squandered it in the service of Uria!"
+msgstr "Жалкий Ки’Бедур! Сколько скрытой силы было в его душе, и как бездарно он растратил её, служа Урии!"
+
+#. [message]
+#: scenarios/03_Across_the_Vemonous_Sands.cfg:881
+msgid "Aren't you related to Uria, Master?"
+msgstr "А разве вы не связаны с Урией, Господин?"
+
+#. [message]: speaker=Jinn
+#: scenarios/03_Across_the_Vemonous_Sands.cfg:887
+msgid "Insignificant creature! As a reward for defeating Qi'Bedur, I will answer your question."
+msgstr "Ничтожное создание! В награду за победу над Ки'Бедуром я отвечу на твой вопрос."
+
+#. [message]: speaker=Jinn
+#: scenarios/03_Across_the_Vemonous_Sands.cfg:893
+msgid "Yes, my nature is bound to Uria, but this bond is like the chains on a prisoner's body, a cage that restrains the growth of a mighty tree! But the hideous threads that bind me to Uria are weakening, and soon you will be the sword that will cut them!"
+msgstr "Да, естество моё связано с Урией, но связь эта подобна цепям на теле узника, клетке, сдерживающей рост могучего дерева! Однако отвратительные нити, связывающие меня с Урией, слабеют, и вскоре вы станете мечом, что разрубит их!"
+
+#. [message]
+#: scenarios/03_Across_the_Vemonous_Sands.cfg:898
+msgid "May I also ask you a question, Master? What is the sea?"
+msgstr "Могу я так же задать вопрос, Господин? Что такое море?"
+
+#. [message]: speaker=Jinn
+#: scenarios/03_Across_the_Vemonous_Sands.cfg:904
+msgid "Insignificant creature, the sea is something that stretches from horizon to horizon, something boundless and great like my charms!"
+msgstr "Ничтожное создание, море – это нечто, простирающееся от горизонта до горизонта, нечто бескрайнее и великое, как мои чары!"
+
+#. [message]
+#: scenarios/03_Across_the_Vemonous_Sands.cfg:923
+msgid "I now understand the meaning of your words, Master. Qi'Bedur lived between a sea of sand and a sea of water. A sea of water! Can't believe it."
+msgstr "Теперь я осознал смысл ваших слов, Господин. Ки-Бедур жил между морем песка и морем воды. Море воды! Подумать только."
+
+#. [message]: speaker=Jinn
+#: scenarios/03_Across_the_Vemonous_Sands.cfg:929
+msgid "You have left one sea, and you are destined to enter another. Listen to my orders: Rest in the fortress of Qi'Bedur until the next short night, then go to the oasis of land in the sea of water; the Red Star will show you the way. As the darkest hour comes before the dawn, so the worst nightmare happens before awakening! Your awakening!"
+msgstr "Вы вышли из одного моря, и вам суждено вступить в другое. Слушайте мой приказ: Отдохните в крепости Ки-Бедура до следующей короткой ночи, затем отправляйтесь к оазису суши в море песка; Красная Звезда укажет вам путь. Как самый тёмный час наступает перед рассветом, так и самый страшный кошмар случается перед пробуждением! Вашим пробуждением!"
+
+#. [message]: speaker=Naga1
+#. [message]: speaker=Naga2
+#: scenarios/03_Across_the_Vemonous_Sands.cfg:934 scenarios/03_Across_the_Vemonous_Sands.cfg:939
+msgid "Yes, Master."
+msgstr "Да, Господин."
+
+#. [scenario]: id=vs_scenario_4
+#: scenarios/04_Final.cfg:4
+msgid "Awakening"
+msgstr "Пробуждение"
+
+#. [part]
+#: scenarios/04_Final.cfg:25
+msgid "A short night, the Nagas set sail from Qi'Bedur's castle, orientated by the Red Star. The depths of the sea made them fearful. When a rocky island appeared on the horizon in the morning, the Nagas rejoiced as if they had found an oasis in the desert."
+msgstr "Короткой ночью наги отплыли из замка Ки’Бедура, ориентируясь на Красную звезду. Море внушало им страх. Когда под утро на горизонте показался скалистый остров, наги обрадовались, словно нашли оазис в пустыне."
+
+#. [part]
+#: scenarios/04_Final.cfg:28
+msgid "Scenario 4: Awakening"
+msgstr "Сценарий 4: Пробуждение"
+
+#. [part]
+#: scenarios/04_Final.cfg:29
+msgid "Up close, it became clear that the entire island was a citadel that an unknown force had erected right out of the rocks. No one guarded the citadel from the outside. Master of the Vessel ordered the Nagas to pass through the grim gate..."
+msgstr "Вблизи стало ясно, что весь остров – это цитадель, которую неведомая сила воздвигла прямо из скал. Никто не охранял цитадель снаружи. Хозяин Сосуда приказал нагам пройти сквозь мрачные врата…"
+
+#. [side]: type=Spider Lich, id=Villain
+#: scenarios/04_Final.cfg:84
+msgid "Mal'Khuzur"
+msgstr "Мал'Хузур"
+
+#. [side]: type=Pulsing Spire
+#. [side]: type=Spider Lich, id=Villain
+#: scenarios/04_Final.cfg:86 scenarios/04_Final.cfg:103
+msgid "Uria"
+msgstr "Урия"
+
+#. [event]: id=Soul_Piece, race=undead, race=undead, race=undead
+#: scenarios/04_Final.cfg:183
+msgid "Part of the Vessel's Master"
+msgstr "Фрагмент Души"
+
+#. [event]: id=Soul_Piece, race=undead, race=undead, race=undead
+#: scenarios/04_Final.cfg:190 scenarios/04_Final.cfg:205 scenarios/04_Final.cfg:220
+msgid "Spider Guard"
+msgstr "Паук-страж"
+
+#. [message]: speaker=Villain
+#: scenarios/04_Final.cfg:263
+msgid "...So the Vicious Vessel has returned to its home harbour. Now I understand the Goddess' plan. To loosen the reins, to let the Vessel weed out the weak, to strengthen itself, to find better servants, and then to tame it cruelly, and to get an even more powerful instrument for the fulfilment of Her will!"
+msgstr "…Итак, Нечестивый Сосуд вернулся в родную гавань. Теперь я понимаю замысел Богини. Ослабить поводья, чтобы Сосуд отсеял слабых, усилился, нашёл лучших слуг, а затем – жестоко укротить его и получить ещё более могущественное орудие для воплощения своей воли!"
+
+#. [message]: speaker=Villain
+#: scenarios/04_Final.cfg:268
+msgid "It's an excellent plan. And I'm happy to execute the last stage of it."
+msgstr "Превосходный план. И я с радостью выполню последний его этап."
+
+#. [message]: speaker=Jinn
+#: scenarios/04_Final.cfg:274
+msgid "Ridiculous Mal'Khuzur! I realise <i>my own</i> will, and my tools have been stronger than Uria's before, so they will be now. Nagi! Destroy him!"
+msgstr "Смехотворный Мал'Хузур! Я воплощаю <i>свою</i> волю, и мои инструменты прежде были сильнее, чем у Урии, так будет и сейчас. Наги! Уничтожьте его!"
+
+#. [message]: speaker=Villain
+#: scenarios/04_Final.cfg:289
+msgid "How fortunate, the Goddess wants me to personally tame the Vicious Vessel! I am no match for Arzoteq and Qi'Bedur, I will not fail Her."
+msgstr "Какое счастье, Богиня хочет, чтобы я лично укротил Нечестивый Сосуд! Я – не чета Арзотеку и Ки’Бедуру, я не подведу Её."
+
+#. [object]: id=Jinn_Heal
+#: scenarios/04_Final.cfg:296
+msgid "Master of the Vessel's Magic"
+msgstr "Чары Хозяина Сосуда"
+
+#. [object]: id=Jinn_Heal
+#: scenarios/04_Final.cfg:297
+msgid "In this scenario, Master of the Vessel will cure and heal your units adjacent to him."
+msgstr "В этом сценарии Хозяин Сосуда будет исцелять и лечить стоящих рядом союзников."
+
+#. [objective]: condition=win
+#: scenarios/04_Final.cfg:314
+msgid "Destroy Mal'Khuzur"
+msgstr "Низвергните Мал'Хузура"
+
+#. [objective]: condition=win
+#: scenarios/04_Final.cfg:323
+msgid "Master of the Vessel deals a finishing blow to Mal'Khuzur"
+msgstr "Хозяин Сосуда наносит Мал'Хузуру смертельный удар"
+
+#. [objective]: condition=win
+#: scenarios/04_Final.cfg:345
+msgid "Release a piece of Master of the Vessel's soul from Uria's shackles."
+msgstr "Освободите фрагмент души Хозяина Сосуда от оков Урии."
+
+#. [note]
+#: scenarios/04_Final.cfg:354
+msgid "Now you can control Master of the Vessel!"
+msgstr "Теперь вы можете управлять Хозяином Сосуда!"
+
+#. [note]
+#: scenarios/04_Final.cfg:364
+msgid "Only Master of the Vessel can deal the finishing blow to Mal'Khuzur."
+msgstr "Только Хозяин Сосуда может низвергнуть Мал'Хузура."
+
+#. [message]: speaker=Jinn
+#: scenarios/04_Final.cfg:384
+msgid "Uria has hidden a piece of my soul in the mind of Mal'Khuzur. I will open portals - go there, free it, and I will regain my true power!"
+msgstr "Урия спрятала частицу моей души в разуме лича. Я открою портал – отправляйтесь туда, освободите её, и я вновь обрету свою истинную силу!"
+
+#. [message]: speaker=Jinn
+#: scenarios/04_Final.cfg:474
+msgid "There it is, the despicably torn away piece of my being! Uria's tentacles have a dead grip on it. Destroy them!"
+msgstr "Вот она, подло отторгнутая частица моего естесства! Щупальца Урии вцепились в неё мёртвой хваткой. Уничтожьте их!"
+
+#. [message]: speaker=Villain
+#: scenarios/04_Final.cfg:484
+msgid "Ar-r-r! Why is Uria's presence weakening in me?!"
+msgstr "Ар-р-р! Почему присутствие Урии ослабевает во мне?!"
+
+#. [message]
+#: scenarios/04_Final.cfg:489
+msgid "Destroying the tentacles hurts the Mal'Khuzur too! Let's carry on like this!"
+msgstr "Разрушение щупалец вредит и личу! Продолжаем в том же духе!"
+
+#. [message]: speaker=Jinn
+#: scenarios/04_Final.cfg:577
+msgid "It came true! My Plan has worked! Oh, astral power, for which I have longed for centuries, how good it is to feel you again with every fibre of my being! You will be the instrument of the cruel vengeance I will exact upon Uria and her minions! "
+msgstr "Свершилось! Мой План сработал! О, астральная мощь, по которой я тосковал столетиями, как приятно вновь ощущать тебя каждой фиброй души! Ты станешь орудием жестокой мести, которую я учиню для Урии и её приспешников!"
+
+#. [message]: speaker=Jinn
+#: scenarios/04_Final.cfg:583
+msgid "Tremble, Mal'Khuzur! Now you will see how terrible my wrath is."
+msgstr "Трепещи, Мал'Хузур! Сейчас ты узнаешь, как я страшен в гневе."
+
+#. [message]
+#: scenarios/04_Final.cfg:589
+msgid "Master wants to destroy Mal'Khuzur, let's clear his path!"
+msgstr "Господин хочет уничтожить лича, расчистим ему путь!"
+
+#. [message]: speaker=Villain
+#: scenarios/04_Final.cfg:605
+msgid "Filthy heretics, your weapons are powerless against me! Even without the Goddess, I will destroy you!"
+msgstr "Грязные еретики, ваше оружие мне нипочём! Даже без Богини я уничтожу вас!"
+
+#. [message]: speaker=$second_unit
+#: scenarios/04_Final.cfg:610
+msgid "It seems only the Master can destroy the lich!"
+msgstr "Похоже только Господин может сразить лича!"
+
+#. [message]: speaker=Villain
+#: scenarios/04_Final.cfg:649
+msgid "How did this happen? This doesn't look like the Goddess's plan! Or does She want me to fall?!"
+msgstr "Как это случилось? Это не похоже на план? Или Богиня хочет, чтобы я пал?!"
+
+#. [message]: speaker=Jinn
+#: scenarios/04_Final.cfg:656
+msgid "This is what <i>I</i> want! Disappear, knowing that Uria has forsaken you, and soon, she will forsake this whole world, for I am now the evil doom and Supreme Overlord!"
+msgstr "Этого хочу <i>Я</i>! Исчезни, зная, что Урия оставила тебя, а вскоре, она оставит весь этот мир, ибо я теперь – злой рок Верховный Властитель!"
+
+#. [message]: speaker=Jinn
+#: scenarios/04_Final.cfg:750
+msgid "You have served me well, serpent creatures. Your bodies and souls are surprisingly clever tools for enacting the Higher Will; even the Gyrza's orcs were less useful, and they were considered the strongest orcish band in the entire desert!"
+msgstr "Вы послужили мне на славу, змеиные создания. Ваши тела и души – на удивление толковые инструменты для воплощения Высшей Воли; даже от орков Гюрзы было меньше толку, а ведь они считались сильнейшей орочьей бандой во всей пустыне!"
+
+#. [message]: speaker=Jinn
+#: scenarios/04_Final.cfg:756
+msgid "Everything has happened exactly as I intended. You have paved the way through the nightmares and released a power beyond your comprehension - my power! Now it's time for you to wake up and realise your own freedom!"
+msgstr "Всё случилось в точности так, как я предначертал. Вы проложили путь сквозь кошмары и освободили силу, неподвластную вашему осмыслению – мою силу! Теперь вам пора проснуться, и осознать собственную свободу!"
+
+#. [floating_text]
+#: scenarios/04_Final.cfg:776 scenarios/04_Final.cfg:796
+msgid "Unwitched!"
+msgstr "Расколдован!"
+
+#. [message]
+#: scenarios/04_Final.cfg:801
+msgid "My head felt so... empty?"
+msgstr "В голове стало так… пусто?"
+
+#. [message]
+#: scenarios/04_Final.cfg:806
+msgid "So this was your plan? To use us to free your soul from Uria's influence?"
+msgstr "Значит, в этом был твой план? Использовать нас, чтобы освободить свою душу от влияния Урии?"
+
+#. [message]: speaker=Jinn
+#: scenarios/04_Final.cfg:812
+msgid "Exactly. And just because you have fulfilled it exactly, I will not devour your souls or split you into a thousand grains of sand!"
+msgstr "Всё так! И лишь за то, что ты исполнили его в точности, я не стану пожирать ваши души или расщеплять вас на тысячу песчинок."
+
+#. [message]
+#: scenarios/04_Final.cfg:817
+msgid ". . ."
+msgstr ""
+
+#. [message]
+#: scenarios/04_Final.cfg:822
+msgid "But how did a creature like you get caught in Uria's net in the first place?"
+msgstr "Но как такое существо, как ты, вообще попало в сети Урии?"
+
+#. [message]: speaker=Jinn
+#: scenarios/04_Final.cfg:828
+msgid "You wretched creature! Do you think I care to tell you this now, in the hour of new-found freedom, on the threshold of great change! Don't ask about it, or I'll shred you into sand nonetheless!"
+msgstr "Жалкое создание! Неужели ты думаешь, что мне интересно рассказывать это сейчас, в час новообретённой свободы, на пороге великих перемен! Не спрашивай об этом, или я всё-таки расщеплю вас!"
+
+#. [message]
+#: scenarios/04_Final.cfg:833
+msgid "Continue to be our Master!"
+msgstr "Будь нашим Господином и дальше!"
+
+#. [message]
+#: scenarios/04_Final.cfg:838
+msgid "What are you saying?"
+msgstr "Что?!"
+
+#. [message]
+#: scenarios/04_Final.cfg:843
+msgid "In the desert, everyone needs a powerful protector. With the magic of Master of the Vessel, we have defeated both the elves of Eloh and the cultists of Uria. May we continue to do so!"
+msgstr "В пустыне каждому нужен могучий покровитель. С магией Хозяина Сосуда мы одолели и эльфов Эло, и культистов Урии. Пусть так будет и дальше!"
+
+#. [message]: speaker=Jinn
+#: scenarios/04_Final.cfg:849
+msgid "Ridiculous creature! Why should I waste my attention on a bunch of snakes now, when astral plans larger and more interesting than the entire history of your race await me!"
+msgstr "Смехотворное создание! Зачем мне тратить своё внимание на кучку змей сейчас, когда астральные планы, более масштабные и интересные, чем история всей вашей расы, ждут меня!"
+
+#. [message]
+#: scenarios/04_Final.cfg:854
+msgid "But what will happen to us now?"
+msgstr "Но что тогда будет с нами!"
+
+#. [message]: speaker=Jinn
+#: scenarios/04_Final.cfg:860
+msgid "What do I care? You're free - do what you want with it!"
+msgstr "Какая мне разница! Вы стали свободными – делайте с этим, что хотите!"
+
+#. [message]
+#: scenarios/04_Final.cfg:865
+msgid "And what about the Vicious Vessel?"
+msgstr "А что насчёт Нечестивого Сосуда?"
+
+#. [message]: speaker=Jinn
+#: scenarios/04_Final.cfg:871
+msgid "I am no longer attached to it, it is now nothing more than an ugly golden craft of mortals."
+msgstr "Я более не привязан к нему, теперь это не более, чем уродливая золотая поделка смертных!"
+
+#. [message]: speaker=Jinn
+#: scenarios/04_Final.cfg:877
+msgid "Farewell, you ridiculous creatures! Perhaps one day I may need you again, but until then, fear to stand in the way of my designs, for punishment will follow immediately, and you have already seen how terrible my wrath is!"
+msgstr "Прощайте, нелепые создания! Быть может, однажды вы ещё понадобитесь мне, но до тех пор страшитесь встать на пути моих замыслов, ибо кара последует незамедлительно, а как страшен мой гнев, вы уже видели!"
+
+#. [message]
+#: scenarios/04_Final.cfg:889
+msgid "Now I really feel like a instrument. He used us and disappeared."
+msgstr "Теперь я и впрямь чувствую себя инструментом. Он воспользовался нами и исчез."
+
+#. [message]
+#: scenarios/04_Final.cfg:894
+msgid "Look at it this way. We were servants of the elves, afraid to go beyond the oasis. Now we are mighty warriors, hardened by dangerous travel, dark magic and fierce battles! I feel that all the sands are open to me, and everywhere I can take what I like!"
+msgstr "Посмотри на это с другой стороны. Мы были прислужниками эльфов и боялись выйти за пределы оазиса. А теперь мы – могучие воины, закалёные опасным путешествием, тёмной магией и жестокими битвами! Я чувствую, что все пески мне открыты, и везде я смогу захватить то, что мне понравится!"
+
+#. [message]
+#: scenarios/04_Final.cfg:901
+msgid "You're right. Let's rest in the citadel and then decide where we go next."
+msgstr "Ты прав. Давай отдохнём в цитадели, а потом решим, куда пойдём дальше."
+
+#. [unit_type]: id=Dawarf, race=monster
+#: units/Darawf.cfg:4
+msgid "Dawarf"
+msgstr "Даварф"
+
+#. [unit_type]: id=Dawarf, race=monster
+#: units/Darawf.cfg:19
+msgid ""
+"One of the first missions Arzoteq took shortly after becoming a herald of Uria was to a small dwarvish settlement near the shrine of his cult. He hoped the dwarves would listen to his word and join the cult of Uria but dwarves didn't understand his preaching and unleashed their axes instead. After defeating the dwarves, Arzoteq decided to fix earthiness and mundanity of dwarves that prevented them from understanding the teaching of his goddess Uria. He tried to attach wings to living dwarvish bodies to create a race of flying warriors who could help in spreading Uria's "
+"word.\n"
+"\n"
+"As it was his very first experiment, the result didn't meet his expectations. Neither they could fly, nor they were as hardy as dwarves are. At least they turned quite cheap to produce, so Arzoteq doesn't really care about them and use them as a fodder to protect valuable troops and to scare enemies. Some of them fled from him and now freely roam in the wastelands of Irdya."
+msgstr ""
+"После того, как Арзотек стал глашатаем Урии, одной из первых его целей стала небольшая гномская деревня неподалёку от капища его культа. Он надеялся, что гномы станут слушать его слово и присоединятся к культу Урии, но гномы не поняли его проповедей и достали свои топоры. Разгромив гномов, Арзотек решил исправить их приземлённость и обыденность, которые помешали им понять учение его богини Урии. Он пытался пришивать крылья к живым гномским телам, чтобы создать расу летающих воинов, которые смогут помочь в распространении слова Урии.\n"
+"\n"
+"Так как это был его самый первый эксперимент, результат не оправдал его ожиданий. Даварфы так и не научились летать, да ещё и не такие крепкие в бою, как гномы. По крайней мере они оказались весьма дешевы, потому Арзотек их не жалеет и использует как мясной щит для более ценных войск и для устрашения врагов. Некоторые даварфы сбежали от него и теперь бродят сами по себе по пустошам Ирдии."
+
+#. [unit_type]: id=Dark Sphere, race=mechanical
+#: units/Dark_Sphere.cfg:4
+msgid "Dark Sphere"
+msgstr "Тёмная сфера"
+
+#. [unit_type]: id=Great Ogre, race=ogre
+#: units/Great_Ogre.cfg:5
+msgid "Great Ogre"
+msgstr "Великий огр"
+
+#. [unit_type]: id=Great Ogre, race=ogre
+#: units/Great_Ogre.cfg:22
+msgid "Great ogres are larger than the ordinary ogre, possess more strength and stand taller than an adult Wose. They live in the wilderness and are xenophobic, so if you ever encounter one, then run."
+msgstr "Великие огры крупнее обычных огров, обладают большей силой и ростом выше взрослого Древня. Они живут в дикой природе и враждебно относятся к чужакам, так что если вам вы повстречали такого, бегите."
+
+#. [attack]: type=blade
+#: units/Great_Ogre.cfg:27
+msgid "cleaver"
+msgstr "тесак"
+
+#. [unit_type]: id=Herald of Uria, race=human
+#: units/Herald_of_Uria.cfg:4
+msgid "Herald of Uria"
+msgstr "Глашатай Урии"
+
+#. [unit_type]: id=Herald of Uria, race=human
+#: units/Herald_of_Uria.cfg:22
+msgid ""
+"As Uria's evil influence entered Irdya after the Fall, multitude of cults dedicated to her or her incarnations appeared across the wastelands of once thriving habitats of Irdya. At first they were centered around special places where Uria's presense could be easily felt. It wasn't enough for the Mother of all Evil, as many cults called Uria, so she chose the most capable sorcerers among her cultists and appointed them as her heralds. Their task is to roam Irdya and spread the word of their goddess to other races. They use terrible magic in their quest to find new worthy "
+"servants for Uria and to exterminate any fool who dare to oppose her teaching."
+msgstr ""
+"С тех пор, как после Падения злое влияние Урии проникло в Ирдию, появилось множество культов, посвящённых ей или её воплощениям. Эти культы стали заполнять пустоши, оставшиеся на месте прежних житниц Ирдии. По началу они кучковались вокруг особых мест, где присутствие Урии ощущалось сильнее всего. Но Матери всего Зла, как величали Урию многие её культисты, было этого мало. Поэтому она выбрала самых способных волшебников среди своих почитателей и нарекла их своими глашатаями. Их задача - бродить по Ирдии и распространять слово своей богини другим народам. Они готовы "
+"использовать самую ужасную магию, чтобы исправно выполнять свою миссию - находить для Урии новых достойных слуг и уничтожать глупцов, посмевших противиться её учению."
+
+#. [attack]: type=arcane
+#: units/Herald_of_Uria.cfg:38
+msgid "voice of Uria"
+msgstr "глас Урии"
+
+#. [female]
+#: units/Naga_Guards.cfg:7
+msgid "Nagini Overseer"
+msgstr "Надзирательница"
+
+#. [unit_type]: id=Naga Overseer
+#: units/Naga_Guards.cfg:11
+msgid "Naga Overseer"
+msgstr "Надзиратель"
+
+#. [unit_type]: id=Naga Overseer
+#: units/Naga_Guards.cfg:12
+msgid "In the desert hell, internal strife is as destructive as thirst, so the nagas have a special group of overseers to keep order in a colony. The overseers are infinitely loyal to the leader, their armor and maces are a powerful argument against any troublemaker. And if an external enemy invades the colony, the overseers will be at the front of the line and provide the tribesmen with a solid defense."
+msgstr "В пустынном аду внутренние распри так же губительны, как жажда, поэтому у нагов выделилась особая группа надзирателей, цель которой - поддерживать порядок в колонии. Надзиратели бесконечно преданны вожаку, их доспехи и палицы являются весомым аргументом против любого смутьяна. А если в колонию нагрянет внешний враг, надзиратели встанут в первые ряды и обеспечат соплеменникам надёжную защиту."
+
+#. [female]
+#: units/Naga_Guards.cfg:49
+msgid "Nagini Oasis Keeper"
+msgstr "Стражница оазиса"
+
+#. [unit_type]: id=Naga Oasis Keeper
+#: units/Naga_Guards.cfg:53
+msgid "Naga Oasis Keeper"
+msgstr "Страж оазиса"
+
+#. [unit_type]: id=Naga Oasis Keeper
+#: units/Naga_Guards.cfg:54
+msgid "Though the Nagas of today have adapted to desert life, they cannot do without water. But a good oasis has been worth its weight in gold since the Fall, and every race will do anything to obtain it. The best of the overseers get even heavier armor and become Oasis Keepers to protect the colony's waters from the suffering. The Oasis Keepers hardly ever leave their home oasis, but it pays off when the next vagrant who might have taken advantage of the colony in the absence of warriors falls to the sand with broken bones."
+msgstr "Хоть нынешние наги и приспособились к жизни в пустыне, они не могут совсем обойтись без воды. Но хороший оазис после Падения стал на вес золота, и каждая раса пойдёт на всё, чтобы обладать им. Лучшие из надзирателей получают ещё более тяжёлую броню и становятся Стражами Оазиса, чтобы защитить воды колонии от страждущих. Пусть Стражи почти не покидают родного оазиса, их содержание окупается с лихвой, когда очередной бродяга, что мог бы поживиться колонией в отсутствие воинов, падает на песок с переломанными костями."
+
+#. [female]
+#: units/Naga_Guards.cfg:109
+msgid "Nagini Pillar"
+msgstr "Оплот"
+
+#. [unit_type]: id=Naga Pillar
+#: units/Naga_Guards.cfg:113
+msgid "Naga Pillar"
+msgstr "Оплот"
+
+#. [unit_type]: id=Naga Pillar
+#: units/Naga_Guards.cfg:114
+msgid "The Pillar is the only reason other Nagas can go on raids without worrying about the colony's safety. The Fall's top-of-the-art armor makes these nagas nearly invulnerable to most desert raiders, and their huge maces can crush even monsters. It is not uncommon for raiding nagas to find their wounded Pillar in the midst of a mountain of shattered enemy bodies when they return from a raid. Its equipment is passed down from generation to generation, and its many scratches are the subject of heroic stories and legends."
+msgstr "Оплот - единственная причина, по которой другие наги могут отправляться в набеги, не переживая за сохранность колонии. Лучшие по меркам Падения латы делают этих нагов неуязвимыми для большинства пустынных налётчиков, а их громадные булавы способны сокрушить даже чудовищ. Нередко наги-налётчики по возвращению с набега находили своего израненого Оплота посреди горы раздробленных вражьих тел. Снаряжение Оплота передаётся из поколения в поколение, а многочисленные царапины на нём становятся предметом героических историй и легенд."
+
+#. [unit_type]: id=Naga DirkfangVS
+#: units/Naga_Skirmishers.cfg:7
+msgid "Naga Dirkfang"
+msgstr "Дискомёт"
+
+#. [female]
+#: units/Naga_Skirmishers.cfg:42
+msgid "Nagini Dirkfang"
+msgstr "Дискомёт"
+
+#. [unit_type]: id=Naga OphidianVS
+#: units/Naga_Skirmishers.cfg:52
+msgid "Naga Warrior"
+msgstr "Воин"
+
+#. [attack]: type=blade
+#: units/Naga_Skirmishers.cfg:61 units/Naga_Skirmishers.cfg:100
+msgid "curved blade"
+msgstr "изогнутый клинок"
+
+#. [female]
+#: units/Naga_Skirmishers.cfg:82
+msgid "Nagini Warrior"
+msgstr "Воительница"
+
+#. [unit_type]: id=Naga SicariusVS
+#: units/Naga_Skirmishers.cfg:92
+msgid "Naga Chief"
+msgstr "Воевода"
+
+#. [female]
+#: units/Naga_Skirmishers.cfg:121
+msgid "Nagini Chief"
+msgstr "Воевода"
+
+#. [unit_type]: id=Naga RingcasterVS
+#: units/Naga_Skirmishers.cfg:131
+msgid "Naga Blade Dancer"
+msgstr "Танцор клинка"
+
+#. [attack]: type=blade
+#: units/Naga_Skirmishers.cfg:140 units/Naga_Skirmishers.cfg:150 units/Naga_Skirmishers.cfg:177 units/Naga_Skirmishers.cfg:187
+msgid "chakram"
+msgstr "шакрам"
+
+#. [female]
+#: units/Naga_Skirmishers.cfg:159
+msgid "Nagini Blade Dancer"
+msgstr "Танцовщица клинка"
+
+#. [unit_type]: id=Naga ZephyrVS
+#: units/Naga_Skirmishers.cfg:169
+msgid "Naga Blade Whirlwind"
+msgstr "Стальной вихрь"
+
+#. [female]
+#: units/Naga_Skirmishers.cfg:196
+msgid "Nagini Blade Whirlwind"
+msgstr "Стальной вихрь"
+
+#. [unit_type]: id=Sun Guardian
+#: units/Sun_Guardian.cfg:11
+msgid "Sun Guardian"
+msgstr "Солнечный страж"
+
+#. [attack]: type=fire
+#: units/Sun_Guardian.cfg:21
+msgid "fire claws"
+msgstr "огненные когти"
+
+#. [attack]: type=fire
+#: units/Sun_Guardian.cfg:31
+msgid "sun breath"
+msgstr "дыхание солнца"
+
+#. [unit_type]: id=Vessel_Master, race=monster
+#. [unit_type]: id=Vessel_Master_Full, race=monster
+#: units/Vessel_master.cfg:24 units/Vessel_master.cfg:288
+msgid "No one knows where the mysterious Master of the Vessel came from, all that is clear is that it is a dangerous creature with far more power than meets the eye."
+msgstr "Никто не знает, откуда взялся таинственный Хозяин Сосуда, известно только, что это опасное существо с куда большей силой, чем может показаться на первый взгляд."
+
+#. [attack]: type=blade
+#: units/Vessel_master.cfg:121 units/Vessel_master.cfg:385
+msgid "claws"
+msgstr "когти"
+
+#. [attack]: type=impact
+#: units/Vessel_master.cfg:133 units/Vessel_master.cfg:397
+msgid "enchantment"
+msgstr "зачарование"
+
+#. [attack]: type=fire
+#: units/Vessel_master.cfg:145
+msgid "wrath of the Vessel's Master"
+msgstr "гнев Хозяина Сосуда"
+
+#. [chance_to_hit]: id=always_hits
+#: units/Vessel_master.cfg:154
+msgid "always hits"
+msgstr "неизбежный"
+
+#. [chance_to_hit]: id=always_hits
+#: units/Vessel_master.cfg:155
+msgid "This attack always has a 100% chance to hit regardless of the defensive ability of the unit being attacked."
+msgstr "Эта атака всегда имеет 100% шанс попадания вне зависимости от защитных способностей противника."
+
+#. [disable]: id=db_attack_only
+#: utils/abilities.cfg:6 utils/misc.cfg:6
+msgid "attack-only"
+msgstr "наступательный"
+
+#. [disable]: id=db_attack_only
+#: utils/abilities.cfg:7 utils/misc.cfg:7
+msgid "This attack can only be used offensively."
+msgstr "Эта атака может использоваться только в нападении."
+
+#. [plague]: id=plague_mud, type=Mudcrawler
+#: utils/abilities.cfg:17
+msgid "mud revival"
+msgstr "оживление грязи"
+
+#. [plague]: id=plague_mud, type=Mudcrawler
+#: utils/abilities.cfg:18
+msgid "When killing an opponent, turns its corpse into a mudcrawler. This doesn’t work on Undead or units in villages."
+msgstr "На месте убитого этой атакой врага появится грязевик. Не работает на нежить или бойцов в деревнях."
+
+#: utils/characters.cfg:6
+msgid "Typhon"
+msgstr "Тифон"
+
+#: utils/characters.cfg:21
+msgid "Python"
+msgstr "Пифон"
+
+#. [message]: speaker=Naga2
+#: utils/characters.cfg:44
+msgid "No! We can't do it without Typhon!"
+msgstr "Нет! Мы не справимся без Тифона!"
+
+#. [message]: speaker=Naga1
+#: utils/characters.cfg:61
+msgid "No! We can't do it without Python!"
+msgstr "Нет! Мы не справимся без Пифона!"
+
+#. [message]: speaker=unit
+#: utils/characters.cfg:78
+msgid "Worthless creatures! How did you... let... this!"
+msgstr "Никчёмные создания! Как вы... допустили... это!"
+
+#. [objective]: condition=lose
+#: utils/characters.cfg:90
+msgid "Death of Typhon"
+msgstr "Смерть Тифона"
+
+#. [objective]: condition=lose
+#: utils/characters.cfg:94
+msgid "Death of Python"
+msgstr "Смерть Пифона"
+
+#. [unit_type]: id=Mudavenger, race=monster
+#: units/Mudavenger.cfg:4
+msgid "Mudavenger"
+msgstr "Гряземститель"
+
+#. [attack]: type=impact
+#: units/Mudavenger.cfg:73 units/Mudogre.cfg:47
+msgid "fist"
+msgstr "кулак"
+
+#. [attack]: type=impact
+#: units/Mudavenger.cfg:85 units/Mudogre.cfg:59
+msgid "mud glob"
+msgstr "грязеплевок"
+
+#. [unit_type]: id=Mudogre, race=monster
+#: units/Mudogre.cfg:4
+msgid "Mudogre"
+msgstr "Грязеогр"
+
+#. [unit_type]: id=Mudogre, race=monster
+#: units/Mudogre.cfg:21
+msgid "A poor creature has perished in the perilous sands but its hatred did not allow its soul to rest. It embodied itself in the mud to avenge its tormentors."
+msgstr "Несчастное создание погибло в коварных песках, но ненависть не позволила его духу упокоиться. Он воплотился в виде грязи, чтобы отомстить своим мучителям."
+
+#. [unit_type]: id=VS Naga Hunter, race=naga, gender=male,female
+#: units/Naga_Hunter.cfg:4
+msgid "Naga Viper"
+msgstr "Гадюка"
+
+#. [trait]: id=unpoisonable
+#: units/Naga_Hunter.cfg:21
+msgid "immune to poison"
+msgstr "иммунитет к яду"
+
+#. [trait]: id=unpoisonable
+#: units/Naga_Hunter.cfg:22
+msgid "female^immune to poison"
+msgstr "иммунитет к яду"
+
+#. [trait]: id=unpoisonable
+#: units/Naga_Hunter.cfg:23
+msgid "Immune to poison"
+msgstr "Иммунитет к яду"
+
+#. [trait]: id=unpoisonable
+#: units/Naga_Hunter.cfg:24
+msgid "Naga Vipers developed a distinguished immunity to poison because of constant contact with poisoned arrows their use."
+msgstr "Постоянный контакт с ядом для стрел развил у нагов-гадюк иммунитет к отравлению."
+
+#. [advancement]: id=reliable
+#: units/Naga_Hunter.cfg:34
+msgid "reliable bow, max XP +20%"
+msgstr "надежный лук, +20% к макс. ОП"
+
+#. [chance_to_hit]: id=reliable
+#: units/Naga_Hunter.cfg:42
+msgid "reliable"
+msgstr "надёжный"
+
+#. [chance_to_hit]: id=reliable
+#: units/Naga_Hunter.cfg:43
+msgid "This attack's chance to hit is increased by 10%."
+msgstr "В нападении шанс попадания этой атакой увеличен на 10%."
+
+#. [unit_type]: id=VS Naga Hunter, race=naga, gender=male,female
+#: units/Naga_Hunter.cfg:63
+msgid "Naga Vipers are naga who are skilled at hunting with a bow. They developed a special resistance to poison, so they have no qualms about hunting with poisoned arrows. These two foot long shafts, tipped with a potent poison, have been known to slay many kinds of prey."
+msgstr "Наги гадюки искусны в стрельбе из лука. Благодаря развитому иммунитету к яду, им не нужно беспокоиться о возможных проблемах при охоте с отравленными стрелами. Выстрелы их длинных смазанных ядом стрел известны своей смертоносностью."
+
+#. [unit_type]: id=Naga Raider
+#: units/Naga_Raiders.cfg:7
+msgid "Naga Raider"
+msgstr "Налётчик"
+
+#. [unit_type]: id=Naga Raider
+#: units/Naga_Raiders.cfg:8
+msgid "An important place in the life of desert nagas belongs to raids to capture prey or patrol borders. Raiders are the most common participants of such raids. They travel light, with only a blade in hand, and rely on their agility. Their sudden strikes can be devastating, especially at dawn or dusk."
+msgstr "Важную роль в жизни пустынных нагов играют походы с целью захвата добычи или патрулирования границ. Налётчики - это рядовые участники таких походов. Они передвигаются налегке, с одним лишь клинком в руке, и делают ставку на своё проворство. Их внезапные удары могут быть губительны, особенно на рассвете или закате."
+
+#. [attack]: type=blade
+#: units/Naga_Raiders.cfg:20 units/Naga_Raiders.cfg:50 units/Naga_Raiders.cfg:87
+msgid "scimitar"
+msgstr "ятаган"
+
+#. [female]: gender=female
+#: units/Naga_Raiders.cfg:28
+msgid "Nagini Raider"
+msgstr "Налётчица"
+
+#. [unit_type]: id=Naga Nomad
+#: units/Naga_Raiders.cfg:38
+msgid "Naga Nomad"
+msgstr "Добытчик"
+
+#. [unit_type]: id=Naga Nomad
+#: units/Naga_Raiders.cfg:39
+msgid "Experienced raiders take a second blade and go on farther and more dangerous raids. Nomads scour the desert in search of what their colony needs, be it a new oasis, food, gold, or supplies. It's dangerous work that requires the nagas to be quick and self-reliant, so the nomads are formidable fighters who can slice through a hapless foe with a series of lightning-fast blows in a matter of seconds."
+msgstr "Опытные налётчики берут второй клинок и отправляются в более далёкие и опасные рейды. Добытчики рыщут по пустыне в поисках того, что нужно колонии, будь то новый оазис, пища, золото или припасы. Это опасный труд, который требует от нагов быстроты и умения постоять за себя, а потому добытчики - грозные бойцы, способные в считаные секунды изрубить незадачливого противника чередой молниеносных ударов."
+
+#. [female]: gender=female
+#: units/Naga_Raiders.cfg:66
+msgid "Nagini Nomad"
+msgstr "Добытчица"
+
+#. [unit_type]: id=Naga Predator
+#: units/Naga_Raiders.cfg:76
+msgid "Naga Predator"
+msgstr "Охотник"
+
+#. [unit_type]: id=Naga Predator
+#: units/Naga_Raiders.cfg:77
+msgid "Predators appear in their colony only to unload caravans full of valuable supplies and disappear behind the dunes again for long periods of time. They spend weeks, if not months, in the open sands and hunt relentlessly for what few goods are left in the world. As soon as the goods are within sight of the Predators, they strike, as swift as they are deadly. All of the most important assets of any Naga colony have been gained by the Predators in bloody skirmishes, which is why the tribesmen honor and respect them on those rare occasions when the Predators visit home."
+msgstr ""
+"Охотники появляются в колонии лишь для того, чтобы разгрузить караваны, полные ценных припасов, и снова надолго исчезнуть за дюнами. Они проводят в открытых песках недели, если не месяцы, и ведут непрекращающуюся охоту на те немногие блага, что ещё остались в этом мире. И едва блага оказываются в поле зрения охотников, как те тут же наносят удар, столь быстрый, сколько и смертоносный. Все главные ценности любой колонии нагов добыты охотниками в кровавых стычках, именно поэтому соплеменники оказывают им почёт и уважение в те редкие моменты когда охотники заглядывают "
+"домой."
+
+#. [female]: gender=female
+#: units/Naga_Raiders.cfg:103
+msgid "Nagini Predator"
+msgstr "Охотница"
+
+#. [unit_type]: id=Spider Lich, race=undead
+#: units/Spider_Lich.cfg:4
+msgid "Chosen of Uria"
+msgstr "Избранник Урии"
+
+#. [unit_type]: id=Spider Lich, race=undead
+#: units/Spider_Lich.cfg:20
+msgid "Only a few are honoured with the title of Chosen of Uria. These are the terrifying sorcerers and monsters that are directly connected to her, and are filled with her dark power. They lead Uria's cults around the world and use their power to enact her will."
+msgstr "Лишь немногие удостаиваются звания Избранника Урии. Они - могущественные чародеи и чудовища, непосредственно связанные с ней и наполненные её тёмной силой. Избранники возглавляют культы Урии по всему миру и используют своё могущество, чтобы воплощать волю её."

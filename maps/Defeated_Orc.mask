@@ -1,0 +1,11 @@
+_f, _f, _f, _f, _f, _f, _f, _f, _f, _f, _f, _f, _f, _f
+_f, _f, Dd, _f, Dd, _f, Dd, _f, Dd, _f, Dd, _f, _f, _f
+_f, _f, Dd, Dd, Dd, Dd, Rd, Rd, Re^Edt, Dd, Dd, _f, _f, _f
+_f, _f, Re^Dr, Re^Edt, Re^Dr, Re^Dr, Re^Edt, Re^Edt, Re^Dr, Re^Edt, Dd, _f, _f, _f
+_f, _f, Rd, Rd, Rd, Re^Edt, Re^Dr, Re^Edt, Re^Edt, Re^Edt, Dd, _f, _f, _f
+_f, _f, Dd, Re, Re^Dr, Re^Edt, Re^Edt, Re^Edt, Re^Dr, Re^Edt, Re, _f, _f, _f
+_f, _f, Dd, Re^Edt, Re^Edt, Re^Edt, Re^Dr, Re^Edt, Re, Re, Re, _f, _f, _f
+_f, _f, Dd, Rd, Rd, Re^Edt, Re^Edt, Re, Rd, Dd^Esd, Dd, _f, _f, _f
+_f, _f, _f, Dd, _f, Rd, _f, Dd, _f, Dd, _f, _f, _f, _f
+_f, _f, _f, _f, _f, _f, _f, _f, _f, _f, _f, _f, _f, _f
+_f, _f, _f, _f, _f, _f, _f, _f, _f, _f, _f, _f, _f, _f

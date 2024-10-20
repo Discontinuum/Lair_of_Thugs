@@ -1,0 +1,8 @@
+_f, _f, _f, _f, _f, _f, _f, _f, _f, _f, _f
+_f, _f, Wwrt, Wwrt, Wwg, Wwt, Wwg, Wwrt, Wwrt, _f, _f
+_f, _f, Wwg, Wwg, Chw, Wwg, Chw, Wwg, Wwg, _f, _f
+_f, Wwrt, Wwg, Chw, Ch^Vhcr, Kh, Ch^Vhcr, Chw, Wwg, Wwrt, _f
+_f, Wwrt, Wwg, Chw, Chw, Chw, Chw, Chw, Wwg, Wwrt, _f
+_f, _f, Wwrt, Wwg, Wwg, Wwg, Wwg, Wwg, Wwrt, _f, _f
+_f, _f, _f, Wwrt, _f, Wwt, _f, Wwrt, _f, _f, _f
+_f, _f, _f, _f, _f, _f, _f, _f, _f, _f, _f

@@ -1,0 +1,8 @@
+_f, _f, _f, _f, _f, _f, _f, _f, _f, _f, _f
+_f, _f, Wwrt, Wwrt, Wwg, Wwt, Wwg, Wwrt, Wwrt, _f, _f
+_f, _f, Wwg, Wwg, Ds^Es, Wwg, Ds^Es, Wwg, Wwg, _f, _f
+_f, Wwrt, Wwg, Ds^Es, Dd^Do, Ds^Es, Dd^Do, Ds^Es, Wwg, Wwrt, _f
+_f, Wwrt, Wwg, Ds^Es, Ds^Es, Ds^Es, Ds^Es, Ds^Es, Wwg, Wwrt, _f
+_f, _f, Wwrt, Wwg, Wwg, Wwg, Wwg, Wwg, Wwrt, _f, _f
+_f, _f, _f, Wwrt, _f, Wwt, _f, Wwrt, _f, _f, _f
+_f, _f, _f, _f, _f, _f, _f, _f, _f, _f, _f
