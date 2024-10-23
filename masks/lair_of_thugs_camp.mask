@@ -1,0 +1,6 @@
+_f, _f, _f, _f, _f, _f, _f, _f, _f, _f, _f, _f
+_f, _f, _f, _f, Ce, _f, _f, _f, _f, _f, _f, _f
+_f, _f, _f, Ce, Ce, Re^Edt, Re^Edt, _f, _f, _f, _f, _f
+_f, _f, _f, Ke, Re^Edt, Re^Ecf, Ce, Ce, _f, _f, _f, _f
+_f, _f, _f, _f, _f, Re^Edt, Ke, Ce, _f, _f, _f, _f
+_f, _f, _f, _f, _f, _f, _f, _f, _f, _f, _f, _f
